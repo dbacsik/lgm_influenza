@@ -240,10 +240,11 @@ rule export_lineage:
     input:
         tree = rules.refine_lineage.output.tree,
         metadata = rules.merge_metadata.output.metadata,
-        node_data = [rules.refine_lineage.output.node_data,
-                     rules.ancestral_lineage.output.nt_muts,
-                     rules.translate_lineage.output.aa_muts],
-                     #rules.label_clades.output.clade_labels],
+        node_data = lambda wc: [
+            rules.refine_lineage.output.node_data,
+            rules.ancestral_lineage.output.nt_muts,
+            rules.translate_lineage.output.aa_muts] + (
+            [rules.label_clades.output.clade_labels] if wc.segment == 'HA' else []),
         auspice_config = 'input/config/build-lineages/auspice_config.json',
     output:
         auspice_json = os.path.join(

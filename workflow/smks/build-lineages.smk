@@ -27,7 +27,7 @@ ref_files = {
 }
 
 root_seq = {
-    'B-Victoria': ['B/Jiangxi-Yushui/11102/2014']
+    'B-Victoria': ['B/Jiangxi-Yushui/11102/2014', 'B/WAKAYAMA/32/2013']
 }
 
 # RULES

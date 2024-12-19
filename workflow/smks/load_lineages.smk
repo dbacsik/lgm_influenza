@@ -25,7 +25,7 @@ rule load_lineages:
         sequences = out_dir+'{subtype}_{segment}_lineages.fasta',
         metadata = out_dir+'{subtype}_{segment}_lineages.tsv'
     params:
-        fields = "strain segment accession originating_lab date lineage"
+        fields = "strain segment accession originating_lab date clade"
     shell:
         """
         augur parse \

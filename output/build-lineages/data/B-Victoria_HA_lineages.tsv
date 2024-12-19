@@ -1,4 +1,4 @@
-strain	segment	accession	originating_lab	date	lineage
+strain	segment	accession	originating_lab	date	clade
 B/WAKAYAMA/32/2013	HA	EPI_ISL_137268	Wakayama_Prefectural_Research_Center_of_Environment_and_Public_Health	2013-01-20	V1A
 B/New_Caledonia/118/2015	HA	EPI_ISL_222806	Institut_Pasteur_New_Caledonia	2015-12-28	V1A
 B/Canterbury/14/2019	HA	EPI_ISL_406842	Institute_of_Environmental_Science_and_Research_(ESR)	2019-07-10	V1A

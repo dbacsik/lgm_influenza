@@ -211,25 +211,29 @@ rule translate_lineage:
             --output-node-data {output.aa_muts}
         """
 
-"""This rule labels HA clades based on defining mutations."""
-rule label_clades:
-    message: "Labeling clades based on mutations"
+"""This rule infers the trait states for each inferred ancestral
+node. It will also infer the most likely state for any metadata
+with a '?' value in the field."""
+rule infer_clades:
+    message: "Inferring clades for ancestral nodes using the following params: {params.traits}"
     input:
         tree = rules.refine_lineage.output.tree,
-        mutations = rules.translate_lineage.output.aa_muts,
-        clades = lambda wc: ref_files[wc.subtype][wc.segment]['clade_muts']
+        metadata = rules.merge_metadata.output.metadata
     output:
-        clade_labels = os.path.join(
+        inferred_clades = os.path.join(
             build_dir,
             'tree',
-            '{subtype}_{segment}_clade_labels.json'),
+            '{subtype}_{segment}_inferred_clades.json'),
+    params:
+        traits = ['clade']
     shell:
         """
-        augur clades \
+        augur traits \
             --tree {input.tree} \
-            --mutations {input.mutations} \
-            --clades {input.clades} \
-            --output-node-data {output.clade_labels}
+            --metadata {input.metadata} \
+            --columns {params.traits} \
+            --output-node-data {output.inferred_clades} \
+            --confidence
         """
 
 ## VISUALIZATION
@@ -240,10 +244,11 @@ rule export_lineage:
     input:
         tree = rules.refine_lineage.output.tree,
         metadata = rules.merge_metadata.output.metadata,
-        node_data = [rules.refine_lineage.output.node_data,
-                     rules.ancestral_lineage.output.nt_muts,
-                     rules.translate_lineage.output.aa_muts],
-                     #rules.label_clades.output.clade_labels],
+        node_data = [
+            rules.refine_lineage.output.node_data,
+            rules.ancestral_lineage.output.nt_muts,
+            rules.translate_lineage.output.aa_muts,
+            rules.infer_clades.output.inferred_clades],
         auspice_config = 'input/config/build-lineages/auspice_config.json',
     output:
         auspice_json = os.path.join(

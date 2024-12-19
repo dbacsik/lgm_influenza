@@ -55,7 +55,7 @@ rule add_clade_column:
     input:
         metadata = rules.add_local_flag.output.metadata
     output:
-        metadata = out_dir+'{subtype}_{segment}_clade.tsv'
+        metadata = out_dir+'{subtype}_{segment}_cladeColumn.tsv'
     shell:
         """
         awk 'BEGIN {{FS=OFS="\t"}} 
@@ -67,7 +67,7 @@ rule add_clade_column:
 rule filter_length:
     input:
         sequences = rules.load_local.output.sequences,
-        metadata = rules.add_local_flag.output.metadata
+        metadata = rules.add_clade_column.output.metadata
     output:
         sequences = out_dir+'{subtype}_{segment}_filterLength.fasta',
         metadata = out_dir+'{subtype}_{segment}_filterLength.tsv'

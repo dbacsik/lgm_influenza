@@ -180,3 +180,25 @@ rule ancestral_lineage:
             --output-sequences {output.sequences} \
             --root-sequence {input.reference}
         """
+
+"""This rule simply translates the sequence of each gene at each node,
+including inferred ancestral nodes."""
+rule translate_lineage:
+    message: "Translating amino acid sequences and identifying mutations"
+    input:
+        tree = rules.refine_lineage.output.tree,
+        ancestral_json = rules.ancestral_lineage.output.nt_muts,
+        reference = lambda wc: ref_files[wc.subtype][wc.segment]['gbk']
+    output:
+        aa_muts = os.path.join(
+            build_dir,
+            'tree',
+            '{subtype}_{segment}_aa_muts.json'),
+    shell:
+        """
+        augur translate \
+            --tree {input.tree} \
+            --ancestral-sequences {input.ancestral_json} \
+            --reference-sequence {input.reference} \
+            --output-node-data {output.aa_muts}
+        """

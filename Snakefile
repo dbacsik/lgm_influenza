@@ -21,7 +21,7 @@ rule all:
             'output/build-lineages/data/{subtype}_{segment}_lineages.tsv',
             subtype=SUBTYPES, segment=SEGMENTS),
         build_lineages = expand(
-            'output/build-lineages/tree/{subtype}_{segment}_ancestral_sequences.fasta',
+            'output/build-lineages/tree/{subtype}_{segment}_aa_muts.json',
             subtype=SUBTYPES, segment=SEGMENTS)
 
 # Includes

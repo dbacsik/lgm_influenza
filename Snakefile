@@ -14,9 +14,13 @@ SEGMENTS = ['HA', 'NA']
 # ALL RULE
 rule all:
     input:
-        ingest_local = expand(
+        load_local = expand(
             'output/data/local/{subtype}_{segment}_filterLength.tsv',
+            subtype=SUBTYPES, segment=SEGMENTS),
+        load_lineages = expand(
+            'output/build-lineages/data/{subtype}_{segment}_lineages.tsv',
             subtype=SUBTYPES, segment=SEGMENTS),
 
 # Includes
-include: "workflow/smks/load_local.smk"
+include: 'workflow/smks/load_local.smk'
+include: 'workflow/smks/load_lineages.smk'

@@ -1,0 +1,8 @@
+To have a context dataset for diverse lineages, on 2024-DEC-19, I selected at least two
+sequences to represent each clade from the Nextstrain 12-year build. I selectede one
+temporally early sequence and one temporally late sequence. Then, I selected a few
+more sequences from Clade V1A.3a.2 to represent the diversity of that clade, since
+this is all that has circulated in recent years.
+
+I downloaded these from GISAID and annotated them with their clade name at the end of
+the FASTA header.

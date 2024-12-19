@@ -35,7 +35,7 @@ An example of all of the files for a build is this:
 
 ```
 Input:  input/data/build-lineages/RSVA_lineages.fasta
-Config: config/build-lineages.yml
+Config: input/config/build-lineages.yml
 Snakemake:  workflow/smks/build-lineages.smk
 Interim files:
     output/build-lineages/data/
@@ -46,10 +46,10 @@ Output: output/auspice/build-lineages.json
 
 ## Data in and data out
 ### Input
-All data that is taken in from an external source (outside of this pipeline) is placed in the in the [input](./input) directory.
+All data that is taken in from an external source (outside of this pipeline) is placed in the in the [data](./input/data) directory.
 
 ### Config
-Config files are stored in the [config](./config) folder.
+Config files are stored in the [config](./input/config) folder.
 
 ### Interim files
 After data has been processed by the pipeline, it is put in an [output](./output) subdirectory.

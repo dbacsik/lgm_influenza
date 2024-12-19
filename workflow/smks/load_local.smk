@@ -50,6 +50,19 @@ rule add_local_flag:
         awk 'BEGIN {{FS=OFS="\t"}} {{print $0, "local"}}' \
             {input.metadata} > {output.metadata}
         """
+    
+rule add_clade_column:
+    input:
+        metadata = rules.add_local_flag.output.metadata
+    output:
+        metadata = out_dir+'{subtype}_{segment}_clade.tsv'
+    shell:
+        """
+        awk 'BEGIN {{FS=OFS="\t"}} 
+             NR==1 {{print $0, "clade"}} 
+             NR>1 {{print $0, "?"}}' \
+            {input.metadata} > {output.metadata}
+        """
 
 rule filter_length:
     input:

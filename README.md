@@ -6,7 +6,7 @@ This notebook contains code and documentation for the anlaysis of seasonal influ
 
 This repository is based on and uses some code from the simplified avian-flu build called "quickstart", created by Louise Moncla.
 
-It was ported from the (lgm_rsv)[https://github.com/dbacsik/lgm_rsv] repository, created by David Bacsik and Diego Cuicapuza.
+It was ported from the [lgm_rsv](https://github.com/dbacsik/lgm_rsv) repository, created by David Bacsik and Diego Cuicapuza.
 
 ## Best Practices
 ### Commits and pull requests are required

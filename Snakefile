@@ -15,7 +15,7 @@ SEGMENTS = ['HA', 'NA']
 rule all:
     input:
         ingest_local = expand(
-            'output/data/local/{subtype}_{segment}_raw.fasta',
+            'output/data/local/{subtype}_{segment}_localFlag.tsv',
             subtype=SUBTYPES, segment=SEGMENTS),
 
 # Includes

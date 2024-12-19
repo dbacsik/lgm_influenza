@@ -1,5 +1,5 @@
 {
-    "name": "lgm_rsv",
+    "name": "lgm_influenza",
     "dockerFile": "../Dockerfile",
     "context": "..",
     "extensions": [

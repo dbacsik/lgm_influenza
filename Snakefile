@@ -14,7 +14,7 @@ SUBTYPES = ['B-Victoria']
 rule all:
     input:
         ingest_local = expand(
-            'output/data/local/{subtype}_filterLength.fasta',
+            'output/data/local/{subtype}_raw.fasta',
             subtype=SUBTYPES),
 
 # Includes

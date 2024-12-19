@@ -137,34 +137,8 @@
     },
     "B/Jiangxi-Yushui/11102/2014": {
       "aa_muts": {
-        "NA": [
-          "S41P",
-          "P42S",
-          "N125K",
-          "V204I",
-          "V271I",
-          "K272Q",
-          "R295S",
-          "D320K",
-          "N329E",
-          "D340N",
-          "D342G",
-          "K358A",
-          "M375K",
-          "D384N",
-          "A395V",
-          "K404E",
-          "D463N",
-          "A465T"
-        ],
-        "NB": [
-          "F6L",
-          "I31V",
-          "L43P",
-          "T44I",
-          "N48Y",
-          "G55R"
-        ]
+        "NA": [],
+        "NB": []
       }
     },
     "B/Nepal/20FL0829/2020": {
@@ -833,35 +807,88 @@
     },
     "NODE_0000000": {
       "aa_muts": {
-        "NA": [],
-        "NB": []
+        "NA": [
+          "S41P",
+          "Q42S",
+          "A71V",
+          "V120I",
+          "N125K",
+          "V204I",
+          "V271I",
+          "K272Q",
+          "R295S",
+          "D320K",
+          "N329E",
+          "D340N",
+          "D342G",
+          "E343K",
+          "K358A",
+          "M375K",
+          "G384N",
+          "I401V",
+          "K404E",
+          "D463N",
+          "A465T"
+        ],
+        "NB": [
+          "F6L",
+          "I31V",
+          "L43P",
+          "T44I",
+          "N48Y",
+          "G55R"
+        ]
       },
       "aa_sequences": {
-        "NA": "MLPSTIQTLTLFLTSGGVLLSLYVSASLSYLLYSDILLKFSQTEITAPTMPLDCANASNVQAVNRSATKGATLLLPEPEWTYPRLSCPGSTFQKALLISPHRFGETKGNSAPLIIREPFVACGPNECKHFALTHYAAQPGGYYNGTRGDRNKLRHLISVKLGKIPTVENSIFHMAAWSGSACHDGKEWTYIGVDGPDNNALLKVKYGEAYTDTYHSYANNILRTQESACNCIGGNCYLMITDGSASGVSECRFLKIREGRIIKEIFPTGRVKHTEECTCGFASNKTIECACRDNRYTAKRPFVKLNVETDTAEIRLMCTDTYLDTPRPNDGSITGPCESDGDEGSGGIKGGFVHQRMKSKIGRWYSRTMSKTERMGMGLYVKYGGDPWADSDALVFSGVMISMKEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKETWHSAATAIYCLMGSGQLLWDTVTGVDMAL*",
-        "NB": "MNNATFNYTNVNPISHIRGSIIITICVSFIIILTIFGYIAKILTNRNNCTNNAIGLCKRIKCSGCEPFCNKRGDTSSPRTGVDIPAFILPGLNLSESTPN*"
+        "NA": "MLPSTIQTLTLFLTSGGVLLSLYVSASLSYLLYSDILLKFPSTEITAPTMPLDCANASNVQAVNRSATKGVTLLLPEPEWTYPRLSCPGSTFQKALLISPHRFGETKGNSAPLIIREPFIACGPKECKHFALTHYAAQPGGYYNGTRGDRNKLRHLISVKLGKIPTVENSIFHMAAWSGSACHDGKEWTYIGVDGPDNNALLKIKYGEAYTDTYHSYANNILRTQESACNCIGGNCYLMITDGSASGVSECRFLKIREGRIIKEIFPTGRIQHTEECTCGFASNKTIECACRDNSYTAKRPFVKLNVETDTAEIRLMCTKTYLDTPRPEDGSITGPCESNGGKGSGGIKGGFVHQRMASKIGRWYSRTMSKTERKGMGLYVKYNGDPWADSDALVFSGVMVSMEEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKETWHSAATAIYCLMGSGQLLWDTVTGVNMTL*",
+        "NB": "MNNATLNYTNVNPISHIRGSIIITICVSFIVILTIFGYIAKIPINRNYCTNNAIRLCKRIKCSGCEPFCNKRGDTSSPRTGVDIPAFILPGLNLSESTPN*"
       }
     },
     "NODE_0000001": {
       "aa_muts": {
-        "NA": [],
-        "NB": []
+        "NA": [
+          "P41S",
+          "S42P",
+          "K125N",
+          "I204V",
+          "I271V",
+          "Q272K",
+          "S295R",
+          "K320D",
+          "E329N",
+          "N340D",
+          "G342D",
+          "A358K",
+          "K375M",
+          "N384D",
+          "V395A",
+          "E404K",
+          "N463D",
+          "T465A"
+        ],
+        "NB": [
+          "L6F",
+          "V31I",
+          "P43L",
+          "I44T",
+          "Y48N",
+          "R55G"
+        ]
       }
     },
     "NODE_0000002": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "I120V",
+          "D384G"
+        ],
         "NB": []
       }
     },
     "NODE_0000003": {
       "aa_muts": {
-        "NA": [
-          "V63L"
-        ],
-        "NB": [
-          "K61E",
-          "C65F"
-        ]
+        "NA": [],
+        "NB": []
       }
     },
     "NODE_0000004": {
@@ -872,19 +899,14 @@
     },
     "NODE_0000005": {
       "aa_muts": {
-        "NA": [
-          "Q42P",
-          "A71V",
-          "V395A"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000006": {
       "aa_muts": {
         "NA": [
-          "E343K",
-          "I401V"
+          "A395T"
         ],
         "NB": []
       }
@@ -892,11 +914,9 @@
     "NODE_0000007": {
       "aa_muts": {
         "NA": [
-          "K371Q"
+          "K343E"
         ],
-        "NB": [
-          "F36L"
-        ]
+        "NB": []
       }
     },
     "NODE_0000008": {
@@ -913,17 +933,16 @@
     },
     "NODE_0000010": {
       "aa_muts": {
-        "NA": [
-          "V120I",
-          "G384D"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000011": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "P99S"
+        ]
       }
     },
     "NODE_0000012": {
@@ -935,22 +954,29 @@
     "NODE_0000013": {
       "aa_muts": {
         "NA": [
-          "A395T"
+          "K371Q"
         ],
-        "NB": []
+        "NB": [
+          "F36L"
+        ]
       }
     },
     "NODE_0000014": {
       "aa_muts": {
         "NA": [
-          "K343E"
+          "K343E",
+          "V401I"
         ],
         "NB": []
       }
     },
     "NODE_0000015": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "P42Q",
+          "V71A",
+          "A395V"
+        ],
         "NB": []
       }
     },
@@ -969,18 +995,27 @@
     "NODE_0000018": {
       "aa_muts": {
         "NA": [],
-        "NB": [
-          "P99S"
-        ]
+        "NB": []
       }
     },
     "NODE_0000019": {
+      "aa_muts": {
+        "NA": [
+          "V63L"
+        ],
+        "NB": [
+          "K61E",
+          "C65F"
+        ]
+      }
+    },
+    "NODE_0000020": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "NODE_0000020": {
+    "NODE_0000021": {
       "aa_muts": {
         "NA": [],
         "NB": [
@@ -988,13 +1023,13 @@
         ]
       }
     },
-    "NODE_0000021": {
+    "NODE_0000022": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "NODE_0000022": {
+    "NODE_0000023": {
       "aa_muts": {
         "NA": [
           "I45T",
@@ -1003,7 +1038,7 @@
         "NB": []
       }
     },
-    "NODE_0000023": {
+    "NODE_0000024": {
       "aa_muts": {
         "NA": [
           "A57T",
@@ -1015,7 +1050,7 @@
         ]
       }
     },
-    "NODE_0000024": {
+    "NODE_0000025": {
       "aa_muts": {
         "NA": [
           "G378E"
@@ -1023,23 +1058,17 @@
         "NB": []
       }
     },
-    "NODE_0000025": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
     "NODE_0000026": {
       "aa_muts": {
-        "NA": [
-          "T91I"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000027": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "T91I"
+        ],
         "NB": []
       }
     },
@@ -1147,13 +1176,19 @@
     },
     "NODE_0000045": {
       "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000046": {
+      "aa_muts": {
         "NA": [
           "K419R"
         ],
         "NB": []
       }
     },
-    "NODE_0000046": {
+    "NODE_0000047": {
       "aa_muts": {
         "NA": [
           "R65H"
@@ -1161,7 +1196,7 @@
         "NB": []
       }
     },
-    "NODE_0000047": {
+    "NODE_0000048": {
       "aa_muts": {
         "NA": [
           "F12L",
@@ -1170,12 +1205,6 @@
         "NB": [
           "I14T"
         ]
-      }
-    },
-    "NODE_0000048": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
       }
     },
     "NODE_0000049": {
@@ -1192,18 +1221,18 @@
     },
     "NODE_0000051": {
       "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000052": {
+      "aa_muts": {
         "NA": [
           "S15L"
         ],
         "NB": [
           "L6F"
         ]
-      }
-    },
-    "NODE_0000052": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
       }
     },
     "NODE_0000053": {
@@ -1227,15 +1256,15 @@
     "NODE_0000056": {
       "aa_muts": {
         "NA": [],
-        "NB": [
-          "I21T"
-        ]
+        "NB": []
       }
     },
     "NODE_0000057": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "I21T"
+        ]
       }
     },
     "NODE_0000058": {
@@ -1270,13 +1299,19 @@
     },
     "NODE_0000063": {
       "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000064": {
+      "aa_muts": {
         "NA": [
           "L52S"
         ],
         "NB": []
       }
     },
-    "NODE_0000064": {
+    "NODE_0000065": {
       "aa_muts": {
         "NA": [
           "G233R",
@@ -1286,24 +1321,18 @@
         "NB": []
       }
     },
-    "NODE_0000065": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
     "NODE_0000066": {
       "aa_muts": {
-        "NA": [
-          "P51L",
-          "D390N"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000067": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "P51L",
+          "D390N"
+        ],
         "NB": []
       }
     },
@@ -1316,29 +1345,29 @@
     "NODE_0000069": {
       "aa_muts": {
         "NA": [],
-        "NB": [
-          "E96K"
-        ]
+        "NB": []
       }
     },
     "NODE_0000070": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "E96K"
+        ]
       }
     },
     "NODE_0000071": {
       "aa_muts": {
         "NA": [],
-        "NB": [
-          "T34A"
-        ]
+        "NB": []
       }
     },
     "NODE_0000072": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "T34A"
+        ]
       }
     },
     "NODE_0000073": {
@@ -1475,15 +1504,15 @@
     },
     "NODE_0000095": {
       "aa_muts": {
-        "NA": [
-          "A62D"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000096": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "A62D"
+        ],
         "NB": []
       }
     },
@@ -1500,6 +1529,12 @@
       }
     },
     "NODE_0000099": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000100": {
       "aa_muts": {
         "NA": [],
         "NB": []

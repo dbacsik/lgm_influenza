@@ -46,7 +46,7 @@
       "branch_length": 0.00064941
     },
     "B/Jiangxi-Yushui/11102/2014": {
-      "branch_length": 0.03643031
+      "branch_length": 0.0
     },
     "B/Nepal/20FL0829/2020": {
       "branch_length": 0.00070921
@@ -316,259 +316,259 @@
       "branch_length": 0.001
     },
     "NODE_0000001": {
-      "branch_length": 0.00395272
+      "branch_length": 0.03643031
     },
     "NODE_0000002": {
-      "branch_length": 0.00065224
-    },
-    "NODE_0000003": {
-      "branch_length": 0.00460798
-    },
-    "NODE_0000004": {
-      "branch_length": 2.23e-06
-    },
-    "NODE_0000005": {
-      "branch_length": 0.00729103
-    },
-    "NODE_0000006": {
-      "branch_length": 0.0012769
-    },
-    "NODE_0000007": {
-      "branch_length": 0.00262173
-    },
-    "NODE_0000008": {
-      "branch_length": 2.3e-06
-    },
-    "NODE_0000009": {
-      "branch_length": 2.16e-06
-    },
-    "NODE_0000010": {
       "branch_length": 0.00365692
     },
-    "NODE_0000011": {
+    "NODE_0000003": {
+      "branch_length": 2.16e-06
+    },
+    "NODE_0000004": {
       "branch_length": 0.00065638
     },
-    "NODE_0000012": {
+    "NODE_0000005": {
       "branch_length": 0.00197373
     },
-    "NODE_0000013": {
+    "NODE_0000006": {
       "branch_length": 0.00065479
     },
-    "NODE_0000014": {
+    "NODE_0000007": {
       "branch_length": 0.00065427
     },
-    "NODE_0000015": {
+    "NODE_0000008": {
       "branch_length": 2.6e-06
     },
-    "NODE_0000016": {
+    "NODE_0000009": {
       "branch_length": 2.12e-06
     },
-    "NODE_0000017": {
+    "NODE_0000010": {
       "branch_length": 2.91e-06
     },
-    "NODE_0000018": {
+    "NODE_0000011": {
       "branch_length": 0.00131537
     },
+    "NODE_0000012": {
+      "branch_length": 2.3e-06
+    },
+    "NODE_0000013": {
+      "branch_length": 0.00262173
+    },
+    "NODE_0000014": {
+      "branch_length": 0.0012769
+    },
+    "NODE_0000015": {
+      "branch_length": 0.00729103
+    },
+    "NODE_0000016": {
+      "branch_length": 2.23e-06
+    },
+    "NODE_0000017": {
+      "branch_length": 0.00395272
+    },
+    "NODE_0000018": {
+      "branch_length": 0.00065224
+    },
     "NODE_0000019": {
-      "branch_length": 0.00131479
+      "branch_length": 0.00460798
     },
     "NODE_0000020": {
-      "branch_length": 0.00065346
+      "branch_length": 0.00131479
     },
     "NODE_0000021": {
-      "branch_length": 2.97e-06
+      "branch_length": 0.00065346
     },
     "NODE_0000022": {
-      "branch_length": 0.00284699
+      "branch_length": 2.97e-06
     },
     "NODE_0000023": {
-      "branch_length": 0.00791402
+      "branch_length": 0.00284699
     },
     "NODE_0000024": {
-      "branch_length": 0.00065593
+      "branch_length": 0.00791402
     },
     "NODE_0000025": {
-      "branch_length": 2.64e-06
+      "branch_length": 0.00065593
     },
     "NODE_0000026": {
-      "branch_length": 0.0007097
+      "branch_length": 2.64e-06
     },
     "NODE_0000027": {
-      "branch_length": 2.04e-06
+      "branch_length": 0.0007097
     },
     "NODE_0000028": {
-      "branch_length": 2.28e-06
+      "branch_length": 2.04e-06
     },
     "NODE_0000029": {
-      "branch_length": 2.63e-06
+      "branch_length": 2.28e-06
     },
     "NODE_0000030": {
-      "branch_length": 1e-06
+      "branch_length": 2.63e-06
     },
     "NODE_0000031": {
-      "branch_length": 2.05e-06
+      "branch_length": 1e-06
     },
     "NODE_0000032": {
-      "branch_length": 2.38e-06
+      "branch_length": 2.05e-06
     },
     "NODE_0000033": {
-      "branch_length": 2.28e-06
+      "branch_length": 2.38e-06
     },
     "NODE_0000034": {
-      "branch_length": 2.17e-06
+      "branch_length": 2.28e-06
     },
     "NODE_0000035": {
-      "branch_length": 0.00065427
+      "branch_length": 2.17e-06
     },
     "NODE_0000036": {
-      "branch_length": 2.15e-06
+      "branch_length": 0.00065427
     },
     "NODE_0000037": {
-      "branch_length": 2.71e-06
+      "branch_length": 2.15e-06
     },
     "NODE_0000038": {
-      "branch_length": 2.28e-06
+      "branch_length": 2.71e-06
     },
     "NODE_0000039": {
-      "branch_length": 2.09e-06
+      "branch_length": 2.28e-06
     },
     "NODE_0000040": {
-      "branch_length": 2.87e-06
+      "branch_length": 2.09e-06
     },
     "NODE_0000041": {
-      "branch_length": 2.28e-06
+      "branch_length": 2.87e-06
     },
     "NODE_0000042": {
       "branch_length": 2.28e-06
     },
     "NODE_0000043": {
-      "branch_length": 2.75e-06
+      "branch_length": 2.28e-06
     },
     "NODE_0000044": {
-      "branch_length": 2.4e-06
+      "branch_length": 2.75e-06
     },
     "NODE_0000045": {
-      "branch_length": 0.00262539
+      "branch_length": 2.4e-06
     },
     "NODE_0000046": {
-      "branch_length": 0.00065431
+      "branch_length": 0.00262539
     },
     "NODE_0000047": {
-      "branch_length": 0.00197094
+      "branch_length": 0.00065431
     },
     "NODE_0000048": {
-      "branch_length": 0.00065575
+      "branch_length": 0.00197094
     },
     "NODE_0000049": {
-      "branch_length": 0.00064276
+      "branch_length": 0.00065575
     },
     "NODE_0000050": {
-      "branch_length": 2.28e-06
+      "branch_length": 0.00064276
     },
     "NODE_0000051": {
-      "branch_length": 0.00262511
+      "branch_length": 2.28e-06
     },
     "NODE_0000052": {
-      "branch_length": 2.19e-06
+      "branch_length": 0.00262511
     },
     "NODE_0000053": {
-      "branch_length": 1e-06
+      "branch_length": 2.19e-06
     },
     "NODE_0000054": {
-      "branch_length": 2.72e-06
-    },
-    "NODE_0000055": {
-      "branch_length": 2.28e-06
-    },
-    "NODE_0000056": {
-      "branch_length": 0.00131185
-    },
-    "NODE_0000057": {
-      "branch_length": 2.24e-06
-    },
-    "NODE_0000058": {
-      "branch_length": 2.88e-06
-    },
-    "NODE_0000059": {
-      "branch_length": 2.41e-06
-    },
-    "NODE_0000060": {
-      "branch_length": 2.28e-06
-    },
-    "NODE_0000061": {
-      "branch_length": 0.0
-    },
-    "NODE_0000062": {
-      "branch_length": 2.28e-06
-    },
-    "NODE_0000063": {
-      "branch_length": 0.00131186
-    },
-    "NODE_0000064": {
-      "branch_length": 0.00394149
-    },
-    "NODE_0000065": {
-      "branch_length": 2.66e-06
-    },
-    "NODE_0000066": {
-      "branch_length": 0.00131177
-    },
-    "NODE_0000067": {
       "branch_length": 1e-06
     },
-    "NODE_0000068": {
+    "NODE_0000055": {
+      "branch_length": 2.72e-06
+    },
+    "NODE_0000056": {
+      "branch_length": 2.28e-06
+    },
+    "NODE_0000057": {
+      "branch_length": 0.00131185
+    },
+    "NODE_0000058": {
+      "branch_length": 2.24e-06
+    },
+    "NODE_0000059": {
+      "branch_length": 2.88e-06
+    },
+    "NODE_0000060": {
+      "branch_length": 2.41e-06
+    },
+    "NODE_0000061": {
+      "branch_length": 2.28e-06
+    },
+    "NODE_0000062": {
       "branch_length": 0.0
     },
+    "NODE_0000063": {
+      "branch_length": 2.28e-06
+    },
+    "NODE_0000064": {
+      "branch_length": 0.00131186
+    },
+    "NODE_0000065": {
+      "branch_length": 0.00394149
+    },
+    "NODE_0000066": {
+      "branch_length": 2.66e-06
+    },
+    "NODE_0000067": {
+      "branch_length": 0.00131177
+    },
+    "NODE_0000068": {
+      "branch_length": 1e-06
+    },
     "NODE_0000069": {
-      "branch_length": 0.00097957
+      "branch_length": 0.0
     },
     "NODE_0000070": {
-      "branch_length": 2.28e-06
+      "branch_length": 0.00097957
     },
     "NODE_0000071": {
-      "branch_length": 0.00070891
+      "branch_length": 2.28e-06
     },
     "NODE_0000072": {
-      "branch_length": 0.00098
+      "branch_length": 0.00070891
     },
     "NODE_0000073": {
-      "branch_length": 2.28e-06
+      "branch_length": 0.00098
     },
     "NODE_0000074": {
-      "branch_length": 0.00070951
+      "branch_length": 2.28e-06
     },
     "NODE_0000075": {
-      "branch_length": 2.05e-06
+      "branch_length": 0.00070951
     },
     "NODE_0000076": {
-      "branch_length": 2.91e-06
+      "branch_length": 2.05e-06
     },
     "NODE_0000077": {
-      "branch_length": 2.28e-06
+      "branch_length": 2.91e-06
     },
     "NODE_0000078": {
-      "branch_length": 0.00070965
+      "branch_length": 2.28e-06
     },
     "NODE_0000079": {
-      "branch_length": 2.5e-06
+      "branch_length": 0.00070965
     },
     "NODE_0000080": {
-      "branch_length": 0.00070967
+      "branch_length": 2.5e-06
     },
     "NODE_0000081": {
-      "branch_length": 2.28e-06
+      "branch_length": 0.00070967
     },
     "NODE_0000082": {
       "branch_length": 2.28e-06
     },
     "NODE_0000083": {
-      "branch_length": 2.13e-06
-    },
-    "NODE_0000084": {
       "branch_length": 2.28e-06
     },
+    "NODE_0000084": {
+      "branch_length": 2.13e-06
+    },
     "NODE_0000085": {
-      "branch_length": 0.0
+      "branch_length": 2.28e-06
     },
     "NODE_0000086": {
       "branch_length": 0.0
@@ -577,16 +577,16 @@
       "branch_length": 0.0
     },
     "NODE_0000088": {
-      "branch_length": 2.01e-06
+      "branch_length": 0.0
     },
     "NODE_0000089": {
-      "branch_length": 2.05e-06
+      "branch_length": 2.01e-06
     },
     "NODE_0000090": {
-      "branch_length": 2.28e-06
+      "branch_length": 2.05e-06
     },
     "NODE_0000091": {
-      "branch_length": 0.0
+      "branch_length": 2.28e-06
     },
     "NODE_0000092": {
       "branch_length": 0.0
@@ -595,21 +595,24 @@
       "branch_length": 0.0
     },
     "NODE_0000094": {
-      "branch_length": 2.03e-06
+      "branch_length": 0.0
     },
     "NODE_0000095": {
-      "branch_length": 0.00071013
+      "branch_length": 2.03e-06
     },
     "NODE_0000096": {
-      "branch_length": 2.75e-06
+      "branch_length": 0.00071013
     },
     "NODE_0000097": {
-      "branch_length": 2.2e-06
+      "branch_length": 2.75e-06
     },
     "NODE_0000098": {
-      "branch_length": 2.17e-06
+      "branch_length": 2.2e-06
     },
     "NODE_0000099": {
+      "branch_length": 2.17e-06
+    },
+    "NODE_0000100": {
       "branch_length": 2.26e-06
     }
   }

@@ -26,6 +26,10 @@ ref_files = {
     }
 }
 
+root_seq = {
+    'B-Victoria': ['B/Jiangxi-Yushui/11102/2014']
+}
+
 # RULES
 # DATA PREPARATION
 ## COMBINE DATA
@@ -143,6 +147,8 @@ rule refine_lineage:
             build_dir,
             'tree',
             '{subtype}_{segment}_branch_lengths.json')
+    params:
+        root = lambda wc: root_seq[wc.subtype]
     shell:
         """
         augur refine \
@@ -151,7 +157,8 @@ rule refine_lineage:
             --metadata {input.metadata} \
             --output-tree {output.tree} \
             --output-node-data {output.node_data} \
-            --divergence-units 'mutations-per-site'
+            --divergence-units 'mutations-per-site' \
+            --root {params.root}
         """
 
 ### NODES AND TRAITS

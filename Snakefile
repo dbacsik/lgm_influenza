@@ -21,7 +21,7 @@ rule all:
             'output/build-lineages/data/{subtype}_{segment}_lineages.tsv',
             subtype=SUBTYPES, segment=SEGMENTS),
         build_lineages = expand(
-            'output/auspice/lineages_{subtype}_{segment}.json',
+            'auspice/lineages_{subtype}_{segment}.json',
             subtype=SUBTYPES, segment=SEGMENTS)
 
 # Includes

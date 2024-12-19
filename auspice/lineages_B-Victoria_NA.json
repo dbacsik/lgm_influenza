@@ -1109,9 +1109,6 @@
                                     "node_attrs": {
                                       "div": 0.0175,
                                       "accession": "EPI_ISL_18786194",
-                                      "local": {
-                                        "value": "local"
-                                      },
                                       "clade": {
                                         "value": "V1A",
                                         "confidence": {
@@ -1128,6 +1125,9 @@
                                       },
                                       "country": {
                                         "value": "Peru"
+                                      },
+                                      "local": {
+                                        "value": "local"
                                       }
                                     },
                                     "branch_attrs": {
@@ -1144,9 +1144,6 @@
                                     "node_attrs": {
                                       "div": 0.0195,
                                       "accession": "EPI_ISL_18786184",
-                                      "local": {
-                                        "value": "local"
-                                      },
                                       "clade": {
                                         "value": "V1A",
                                         "confidence": {
@@ -1163,6 +1160,9 @@
                                       },
                                       "country": {
                                         "value": "Peru"
+                                      },
+                                      "local": {
+                                        "value": "local"
                                       }
                                     },
                                     "branch_attrs": {
@@ -1301,9 +1301,6 @@
                                         "node_attrs": {
                                           "div": 0.0175,
                                           "accession": "EPI_ISL_18991610",
-                                          "local": {
-                                            "value": "local"
-                                          },
                                           "clade": {
                                             "value": "V1A",
                                             "confidence": {
@@ -1320,6 +1317,9 @@
                                           },
                                           "country": {
                                             "value": "Ecuador"
+                                          },
+                                          "local": {
+                                            "value": "local"
                                           }
                                         },
                                         "branch_attrs": {
@@ -1331,9 +1331,6 @@
                                         "node_attrs": {
                                           "div": 0.0175,
                                           "accession": "EPI_ISL_18991613",
-                                          "local": {
-                                            "value": "local"
-                                          },
                                           "clade": {
                                             "value": "V1A",
                                             "confidence": {
@@ -1350,6 +1347,9 @@
                                           },
                                           "country": {
                                             "value": "Ecuador"
+                                          },
+                                          "local": {
+                                            "value": "local"
                                           }
                                         },
                                         "branch_attrs": {
@@ -1395,9 +1395,6 @@
                                 "node_attrs": {
                                   "div": 0.0182,
                                   "accession": "EPI_ISL_18022586",
-                                  "local": {
-                                    "value": "local"
-                                  },
                                   "clade": {
                                     "value": "V1A.3a.2",
                                     "confidence": {
@@ -1414,6 +1411,9 @@
                                   },
                                   "country": {
                                     "value": "Peru"
+                                  },
+                                  "local": {
+                                    "value": "local"
                                   }
                                 },
                                 "branch_attrs": {
@@ -1537,9 +1537,6 @@
                                             "node_attrs": {
                                               "div": 0.0192,
                                               "accession": "EPI_ISL_19614278",
-                                              "local": {
-                                                "value": "local"
-                                              },
                                               "clade": {
                                                 "value": "V1A.3a.2",
                                                 "confidence": {
@@ -1556,6 +1553,9 @@
                                               },
                                               "country": {
                                                 "value": "Peru"
+                                              },
+                                              "local": {
+                                                "value": "local"
                                               }
                                             },
                                             "branch_attrs": {
@@ -1583,9 +1583,6 @@
                                             "node_attrs": {
                                               "div": 0.0206,
                                               "accession": "EPI_ISL_19463932",
-                                              "local": {
-                                                "value": "local"
-                                              },
                                               "clade": {
                                                 "value": "V1A.3a.2",
                                                 "confidence": {
@@ -1602,6 +1599,9 @@
                                               },
                                               "country": {
                                                 "value": "Peru"
+                                              },
+                                              "local": {
+                                                "value": "local"
                                               }
                                             },
                                             "branch_attrs": {
@@ -1678,9 +1678,6 @@
                                             "node_attrs": {
                                               "div": 0.0235,
                                               "accession": "EPI_ISL_18933098",
-                                              "local": {
-                                                "value": "local"
-                                              },
                                               "clade": {
                                                 "value": "V1A.3a.2",
                                                 "confidence": {
@@ -1697,6 +1694,9 @@
                                               },
                                               "country": {
                                                 "value": "Ecuador"
+                                              },
+                                              "local": {
+                                                "value": "local"
                                               }
                                             },
                                             "branch_attrs": {
@@ -1719,9 +1719,6 @@
                                             "node_attrs": {
                                               "div": 0.0221,
                                               "accession": "EPI_ISL_18022791",
-                                              "local": {
-                                                "value": "local"
-                                              },
                                               "clade": {
                                                 "value": "V1A.3a.2",
                                                 "confidence": {
@@ -1738,6 +1735,9 @@
                                               },
                                               "country": {
                                                 "value": "Peru"
+                                              },
+                                              "local": {
+                                                "value": "local"
                                               }
                                             },
                                             "branch_attrs": {
@@ -1809,9 +1809,6 @@
                                             "node_attrs": {
                                               "div": 0.0168,
                                               "accession": "EPI_ISL_18022690",
-                                              "local": {
-                                                "value": "local"
-                                              },
                                               "clade": {
                                                 "value": "V1A.3a.2",
                                                 "confidence": {
@@ -1828,6 +1825,9 @@
                                               },
                                               "country": {
                                                 "value": "Peru"
+                                              },
+                                              "local": {
+                                                "value": "local"
                                               }
                                             },
                                             "branch_attrs": {
@@ -1884,9 +1884,6 @@
                                                 "node_attrs": {
                                                   "div": 0.0163,
                                                   "accession": "EPI_ISL_17735450",
-                                                  "local": {
-                                                    "value": "local"
-                                                  },
                                                   "clade": {
                                                     "value": "V1A.3a.2",
                                                     "confidence": {
@@ -1903,6 +1900,9 @@
                                                   },
                                                   "country": {
                                                     "value": "Peru"
+                                                  },
+                                                  "local": {
+                                                    "value": "local"
                                                   }
                                                 },
                                                 "branch_attrs": {
@@ -1947,9 +1947,6 @@
                                                     "node_attrs": {
                                                       "div": 0.0156,
                                                       "accession": "EPI_ISL_17735448",
-                                                      "local": {
-                                                        "value": "local"
-                                                      },
                                                       "clade": {
                                                         "value": "V1A.3a.2",
                                                         "confidence": {
@@ -1966,6 +1963,9 @@
                                                       },
                                                       "country": {
                                                         "value": "Peru"
+                                                      },
+                                                      "local": {
+                                                        "value": "local"
                                                       }
                                                     },
                                                     "branch_attrs": {
@@ -1977,9 +1977,6 @@
                                                     "node_attrs": {
                                                       "div": 0.0156,
                                                       "accession": "EPI_ISL_17735447",
-                                                      "local": {
-                                                        "value": "local"
-                                                      },
                                                       "clade": {
                                                         "value": "V1A.3a.2",
                                                         "confidence": {
@@ -1996,6 +1993,9 @@
                                                       },
                                                       "country": {
                                                         "value": "Peru"
+                                                      },
+                                                      "local": {
+                                                        "value": "local"
                                                       }
                                                     },
                                                     "branch_attrs": {
@@ -2105,9 +2105,6 @@
                                                         "node_attrs": {
                                                           "div": 0.0155,
                                                           "accession": "EPI_ISL_16830713",
-                                                          "local": {
-                                                            "value": "local"
-                                                          },
                                                           "clade": {
                                                             "value": "V1A.3a.2",
                                                             "confidence": {
@@ -2124,6 +2121,9 @@
                                                           },
                                                           "country": {
                                                             "value": "Ecuador"
+                                                          },
+                                                          "local": {
+                                                            "value": "local"
                                                           }
                                                         },
                                                         "branch_attrs": {
@@ -2139,9 +2139,6 @@
                                                         "node_attrs": {
                                                           "div": 0.0155,
                                                           "accession": "EPI_ISL_18022728",
-                                                          "local": {
-                                                            "value": "local"
-                                                          },
                                                           "clade": {
                                                             "value": "V1A.3a.2",
                                                             "confidence": {
@@ -2158,6 +2155,9 @@
                                                           },
                                                           "country": {
                                                             "value": "Peru"
+                                                          },
+                                                          "local": {
+                                                            "value": "local"
                                                           }
                                                         },
                                                         "branch_attrs": {
@@ -2221,9 +2221,6 @@
                                                             "node_attrs": {
                                                               "div": 0.0155,
                                                               "accession": "EPI_ISL_18022604",
-                                                              "local": {
-                                                                "value": "local"
-                                                              },
                                                               "clade": {
                                                                 "value": "V1A.3a.2",
                                                                 "confidence": {
@@ -2240,6 +2237,9 @@
                                                               },
                                                               "country": {
                                                                 "value": "Peru"
+                                                              },
+                                                              "local": {
+                                                                "value": "local"
                                                               }
                                                             },
                                                             "branch_attrs": {
@@ -2261,9 +2261,6 @@
                                                             "node_attrs": {
                                                               "div": 0.0155,
                                                               "accession": "EPI_ISL_18092010",
-                                                              "local": {
-                                                                "value": "local"
-                                                              },
                                                               "clade": {
                                                                 "value": "V1A.3a.2",
                                                                 "confidence": {
@@ -2280,6 +2277,9 @@
                                                               },
                                                               "country": {
                                                                 "value": "Peru"
+                                                              },
+                                                              "local": {
+                                                                "value": "local"
                                                               }
                                                             },
                                                             "branch_attrs": {
@@ -2326,9 +2326,6 @@
                                                             "node_attrs": {
                                                               "div": 0.0168,
                                                               "accession": "EPI_ISL_18022757",
-                                                              "local": {
-                                                                "value": "local"
-                                                              },
                                                               "clade": {
                                                                 "value": "V1A.3a.2",
                                                                 "confidence": {
@@ -2345,6 +2342,9 @@
                                                               },
                                                               "country": {
                                                                 "value": "Peru"
+                                                              },
+                                                              "local": {
+                                                                "value": "local"
                                                               }
                                                             },
                                                             "branch_attrs": {
@@ -2395,9 +2395,6 @@
                                                                 "node_attrs": {
                                                                   "div": 0.0195,
                                                                   "accession": "EPI_ISL_18786190",
-                                                                  "local": {
-                                                                    "value": "local"
-                                                                  },
                                                                   "clade": {
                                                                     "value": "V1A.3a.2",
                                                                     "confidence": {
@@ -2414,6 +2411,9 @@
                                                                   },
                                                                   "country": {
                                                                     "value": "Peru"
+                                                                  },
+                                                                  "local": {
+                                                                    "value": "local"
                                                                   }
                                                                 },
                                                                 "branch_attrs": {
@@ -2493,9 +2493,6 @@
                                                                         "node_attrs": {
                                                                           "div": 0.0162,
                                                                           "accession": "EPI_ISL_16830670",
-                                                                          "local": {
-                                                                            "value": "local"
-                                                                          },
                                                                           "clade": {
                                                                             "value": "V1A.3a.2",
                                                                             "confidence": {
@@ -2512,6 +2509,9 @@
                                                                           },
                                                                           "country": {
                                                                             "value": "Ecuador"
+                                                                          },
+                                                                          "local": {
+                                                                            "value": "local"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -2527,9 +2527,6 @@
                                                                         "node_attrs": {
                                                                           "div": 0.0168,
                                                                           "accession": "EPI_ISL_16830704",
-                                                                          "local": {
-                                                                            "value": "local"
-                                                                          },
                                                                           "clade": {
                                                                             "value": "V1A.3a.2",
                                                                             "confidence": {
@@ -2546,6 +2543,9 @@
                                                                           },
                                                                           "country": {
                                                                             "value": "Ecuador"
+                                                                          },
+                                                                          "local": {
+                                                                            "value": "local"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -2597,9 +2597,6 @@
                                                                         "node_attrs": {
                                                                           "div": 0.0155,
                                                                           "accession": "EPI_ISL_18022713",
-                                                                          "local": {
-                                                                            "value": "local"
-                                                                          },
                                                                           "clade": {
                                                                             "value": "V1A.3a.2",
                                                                             "confidence": {
@@ -2616,6 +2613,9 @@
                                                                           },
                                                                           "country": {
                                                                             "value": "Peru"
+                                                                          },
+                                                                          "local": {
+                                                                            "value": "local"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -2627,9 +2627,6 @@
                                                                         "node_attrs": {
                                                                           "div": 0.0155,
                                                                           "accession": "EPI_ISL_18022639",
-                                                                          "local": {
-                                                                            "value": "local"
-                                                                          },
                                                                           "clade": {
                                                                             "value": "V1A.3a.2",
                                                                             "confidence": {
@@ -2646,6 +2643,9 @@
                                                                           },
                                                                           "country": {
                                                                             "value": "Peru"
+                                                                          },
+                                                                          "local": {
+                                                                            "value": "local"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -2715,9 +2715,6 @@
                                                         "node_attrs": {
                                                           "div": 0.0162,
                                                           "accession": "EPI_ISL_16830681",
-                                                          "local": {
-                                                            "value": "local"
-                                                          },
                                                           "clade": {
                                                             "value": "V1A.3a.2",
                                                             "confidence": {
@@ -2734,6 +2731,9 @@
                                                           },
                                                           "country": {
                                                             "value": "Ecuador"
+                                                          },
+                                                          "local": {
+                                                            "value": "local"
                                                           }
                                                         },
                                                         "branch_attrs": {
@@ -2783,9 +2783,6 @@
                                                             "node_attrs": {
                                                               "div": 0.0162,
                                                               "accession": "EPI_ISL_18022522",
-                                                              "local": {
-                                                                "value": "local"
-                                                              },
                                                               "clade": {
                                                                 "value": "V1A.3a.2",
                                                                 "confidence": {
@@ -2802,6 +2799,9 @@
                                                               },
                                                               "country": {
                                                                 "value": "Peru"
+                                                              },
+                                                              "local": {
+                                                                "value": "local"
                                                               }
                                                             },
                                                             "branch_attrs": {
@@ -2828,9 +2828,6 @@
                                                             "node_attrs": {
                                                               "div": 0.0181,
                                                               "accession": "EPI_ISL_18599152",
-                                                              "local": {
-                                                                "value": "local"
-                                                              },
                                                               "clade": {
                                                                 "value": "V1A.3a.2",
                                                                 "confidence": {
@@ -2847,6 +2844,9 @@
                                                               },
                                                               "country": {
                                                                 "value": "Peru"
+                                                              },
+                                                              "local": {
+                                                                "value": "local"
                                                               }
                                                             },
                                                             "branch_attrs": {
@@ -2902,9 +2902,6 @@
                                                         "node_attrs": {
                                                           "div": 0.0149,
                                                           "accession": "EPI_ISL_18092013",
-                                                          "local": {
-                                                            "value": "local"
-                                                          },
                                                           "clade": {
                                                             "value": "V1A.3a.2",
                                                             "confidence": {
@@ -2921,6 +2918,9 @@
                                                           },
                                                           "country": {
                                                             "value": "Peru"
+                                                          },
+                                                          "local": {
+                                                            "value": "local"
                                                           }
                                                         },
                                                         "branch_attrs": {
@@ -3006,9 +3006,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0175,
                                                                       "accession": "EPI_ISL_18786196",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -3025,6 +3022,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -3036,9 +3036,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0175,
                                                                       "accession": "EPI_ISL_18786192",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -3055,6 +3052,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -3101,9 +3101,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0168,
                                                                       "accession": "EPI_ISL_18022775",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -3120,6 +3117,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -3182,9 +3182,6 @@
                                                                         "node_attrs": {
                                                                           "div": 0.0181,
                                                                           "accession": "EPI_ISL_18786173",
-                                                                          "local": {
-                                                                            "value": "local"
-                                                                          },
                                                                           "clade": {
                                                                             "value": "V1A.3a.2",
                                                                             "confidence": {
@@ -3201,6 +3198,9 @@
                                                                           },
                                                                           "country": {
                                                                             "value": "Peru"
+                                                                          },
+                                                                          "local": {
+                                                                            "value": "local"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -3216,9 +3216,6 @@
                                                                         "node_attrs": {
                                                                           "div": 0.0175,
                                                                           "accession": "EPI_ISL_18786180",
-                                                                          "local": {
-                                                                            "value": "local"
-                                                                          },
                                                                           "clade": {
                                                                             "value": "V1A.3a.2",
                                                                             "confidence": {
@@ -3235,6 +3232,9 @@
                                                                           },
                                                                           "country": {
                                                                             "value": "Peru"
+                                                                          },
+                                                                          "local": {
+                                                                            "value": "local"
                                                                           }
                                                                         },
                                                                         "branch_attrs": {
@@ -3294,9 +3294,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0188,
                                                                       "accession": "EPI_ISL_18786181",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -3313,6 +3310,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -3512,9 +3512,6 @@
                                                                                 "node_attrs": {
                                                                                   "div": 0.0201,
                                                                                   "accession": "EPI_ISL_18786179",
-                                                                                  "local": {
-                                                                                    "value": "local"
-                                                                                  },
                                                                                   "clade": {
                                                                                     "value": "V1A.3a.2",
                                                                                     "confidence": {
@@ -3531,6 +3528,9 @@
                                                                                   },
                                                                                   "country": {
                                                                                     "value": "Peru"
+                                                                                  },
+                                                                                  "local": {
+                                                                                    "value": "local"
                                                                                   }
                                                                                 },
                                                                                 "branch_attrs": {
@@ -3554,9 +3554,6 @@
                                                                                 "node_attrs": {
                                                                                   "div": 0.0195,
                                                                                   "accession": "EPI_ISL_18786186",
-                                                                                  "local": {
-                                                                                    "value": "local"
-                                                                                  },
                                                                                   "clade": {
                                                                                     "value": "V1A.3a.2",
                                                                                     "confidence": {
@@ -3573,6 +3570,9 @@
                                                                                   },
                                                                                   "country": {
                                                                                     "value": "Peru"
+                                                                                  },
+                                                                                  "local": {
+                                                                                    "value": "local"
                                                                                   }
                                                                                 },
                                                                                 "branch_attrs": {
@@ -3623,9 +3623,6 @@
                                                                                 "node_attrs": {
                                                                                   "div": 0.0182,
                                                                                   "accession": "EPI_ISL_18786176",
-                                                                                  "local": {
-                                                                                    "value": "local"
-                                                                                  },
                                                                                   "clade": {
                                                                                     "value": "V1A.3a.2",
                                                                                     "confidence": {
@@ -3642,6 +3639,9 @@
                                                                                   },
                                                                                   "country": {
                                                                                     "value": "Peru"
+                                                                                  },
+                                                                                  "local": {
+                                                                                    "value": "local"
                                                                                   }
                                                                                 },
                                                                                 "branch_attrs": {
@@ -3676,9 +3676,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0182,
                                                                                       "accession": "EPI_ISL_19034641",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -3695,6 +3692,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -3706,9 +3706,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0182,
                                                                                       "accession": "EPI_ISL_18786172",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -3725,6 +3722,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -3776,9 +3776,6 @@
                                                                             "node_attrs": {
                                                                               "div": 0.0201,
                                                                               "accession": "EPI_ISL_18786183",
-                                                                              "local": {
-                                                                                "value": "local"
-                                                                              },
                                                                               "clade": {
                                                                                 "value": "V1A.3a.2",
                                                                                 "confidence": {
@@ -3795,6 +3792,9 @@
                                                                               },
                                                                               "country": {
                                                                                 "value": "Peru"
+                                                                              },
+                                                                              "local": {
+                                                                                "value": "local"
                                                                               }
                                                                             },
                                                                             "branch_attrs": {
@@ -3862,9 +3862,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0201,
                                                                                       "accession": "EPI_ISL_18786174",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -3881,6 +3878,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -3896,9 +3896,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0208,
                                                                                       "accession": "EPI_ISL_18786178",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -3915,6 +3912,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -3963,9 +3963,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0195,
                                                                                       "accession": "EPI_ISL_18786175",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -3982,6 +3979,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -4016,9 +4016,6 @@
                                                                                         "node_attrs": {
                                                                                           "div": 0.0195,
                                                                                           "accession": "EPI_ISL_18786198",
-                                                                                          "local": {
-                                                                                            "value": "local"
-                                                                                          },
                                                                                           "clade": {
                                                                                             "value": "V1A.3a.2",
                                                                                             "confidence": {
@@ -4035,6 +4032,9 @@
                                                                                           },
                                                                                           "country": {
                                                                                             "value": "Peru"
+                                                                                          },
+                                                                                          "local": {
+                                                                                            "value": "local"
                                                                                           }
                                                                                         },
                                                                                         "branch_attrs": {
@@ -4069,9 +4069,6 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.0195,
                                                                                               "accession": "EPI_ISL_18786098",
-                                                                                              "local": {
-                                                                                                "value": "local"
-                                                                                              },
                                                                                               "clade": {
                                                                                                 "value": "V1A.3a.2",
                                                                                                 "confidence": {
@@ -4088,6 +4085,9 @@
                                                                                               },
                                                                                               "country": {
                                                                                                 "value": "Peru"
+                                                                                              },
+                                                                                              "local": {
+                                                                                                "value": "local"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {
@@ -4099,9 +4099,6 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.0195,
                                                                                               "accession": "EPI_ISL_18786182",
-                                                                                              "local": {
-                                                                                                "value": "local"
-                                                                                              },
                                                                                               "clade": {
                                                                                                 "value": "V1A.3a.2",
                                                                                                 "confidence": {
@@ -4118,6 +4115,9 @@
                                                                                               },
                                                                                               "country": {
                                                                                                 "value": "Peru"
+                                                                                              },
+                                                                                              "local": {
+                                                                                                "value": "local"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {
@@ -4176,9 +4176,6 @@
                                                 "node_attrs": {
                                                   "div": 0.0155,
                                                   "accession": "EPI_ISL_18092034",
-                                                  "local": {
-                                                    "value": "local"
-                                                  },
                                                   "clade": {
                                                     "value": "V1A.3a.2",
                                                     "confidence": {
@@ -4195,6 +4192,9 @@
                                                   },
                                                   "country": {
                                                     "value": "Peru"
+                                                  },
+                                                  "local": {
+                                                    "value": "local"
                                                   }
                                                 },
                                                 "branch_attrs": {
@@ -4290,9 +4290,6 @@
                                                         "node_attrs": {
                                                           "div": 0.0201,
                                                           "accession": "EPI_ISL_18786097",
-                                                          "local": {
-                                                            "value": "local"
-                                                          },
                                                           "clade": {
                                                             "value": "V1A.3a.2",
                                                             "confidence": {
@@ -4309,6 +4306,9 @@
                                                           },
                                                           "country": {
                                                             "value": "Peru"
+                                                          },
+                                                          "local": {
+                                                            "value": "local"
                                                           }
                                                         },
                                                         "branch_attrs": {
@@ -4320,9 +4320,6 @@
                                                         "node_attrs": {
                                                           "div": 0.0201,
                                                           "accession": "EPI_ISL_18786200",
-                                                          "local": {
-                                                            "value": "local"
-                                                          },
                                                           "clade": {
                                                             "value": "V1A.3a.2",
                                                             "confidence": {
@@ -4339,6 +4336,9 @@
                                                           },
                                                           "country": {
                                                             "value": "Peru"
+                                                          },
+                                                          "local": {
+                                                            "value": "local"
                                                           }
                                                         },
                                                         "branch_attrs": {
@@ -4410,9 +4410,6 @@
                                                             "node_attrs": {
                                                               "div": 0.0175,
                                                               "accession": "EPI_ISL_18786188",
-                                                              "local": {
-                                                                "value": "local"
-                                                              },
                                                               "clade": {
                                                                 "value": "V1A.3a.2",
                                                                 "confidence": {
@@ -4429,6 +4426,9 @@
                                                               },
                                                               "country": {
                                                                 "value": "Peru"
+                                                              },
+                                                              "local": {
+                                                                "value": "local"
                                                               }
                                                             },
                                                             "branch_attrs": {
@@ -4463,9 +4463,6 @@
                                                                 "node_attrs": {
                                                                   "div": 0.0175,
                                                                   "accession": "EPI_ISL_18786177",
-                                                                  "local": {
-                                                                    "value": "local"
-                                                                  },
                                                                   "clade": {
                                                                     "value": "V1A.3a.2",
                                                                     "confidence": {
@@ -4482,6 +4479,9 @@
                                                                   },
                                                                   "country": {
                                                                     "value": "Peru"
+                                                                  },
+                                                                  "local": {
+                                                                    "value": "local"
                                                                   }
                                                                 },
                                                                 "branch_attrs": {
@@ -4516,9 +4516,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0175,
                                                                       "accession": "EPI_ISL_18786171",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -4535,6 +4532,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -4546,9 +4546,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0175,
                                                                       "accession": "EPI_ISL_18786187",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -4565,6 +4562,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -4615,9 +4615,6 @@
                                                             "node_attrs": {
                                                               "div": 0.0186,
                                                               "accession": "EPI_ISL_19614272",
-                                                              "local": {
-                                                                "value": "local"
-                                                              },
                                                               "clade": {
                                                                 "value": "V1A.3a.2",
                                                                 "confidence": {
@@ -4634,6 +4631,9 @@
                                                               },
                                                               "country": {
                                                                 "value": "Peru"
+                                                              },
+                                                              "local": {
+                                                                "value": "local"
                                                               }
                                                             },
                                                             "branch_attrs": {
@@ -4712,9 +4712,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0179,
                                                                       "accession": "EPI_ISL_18911416",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -4731,6 +4728,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -4742,9 +4742,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0186,
                                                                       "accession": "EPI_ISL_19530390",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -4761,6 +4758,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -4813,9 +4813,6 @@
                                                                     "node_attrs": {
                                                                       "div": 0.0203,
                                                                       "accession": "EPI_ISL_19463929",
-                                                                      "local": {
-                                                                        "value": "local"
-                                                                      },
                                                                       "clade": {
                                                                         "value": "V1A.3a.2",
                                                                         "confidence": {
@@ -4832,6 +4829,9 @@
                                                                       },
                                                                       "country": {
                                                                         "value": "Peru"
+                                                                      },
+                                                                      "local": {
+                                                                        "value": "local"
                                                                       }
                                                                     },
                                                                     "branch_attrs": {
@@ -4910,9 +4910,6 @@
                                                                             "node_attrs": {
                                                                               "div": 0.021,
                                                                               "accession": "EPI_ISL_19614273",
-                                                                              "local": {
-                                                                                "value": "local"
-                                                                              },
                                                                               "clade": {
                                                                                 "value": "V1A.3a.2",
                                                                                 "confidence": {
@@ -4929,6 +4926,9 @@
                                                                               },
                                                                               "country": {
                                                                                 "value": "Peru"
+                                                                              },
+                                                                              "local": {
+                                                                                "value": "local"
                                                                               }
                                                                             },
                                                                             "branch_attrs": {
@@ -5003,9 +5003,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0203,
                                                                                       "accession": "EPI_ISL_19614274",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -5022,6 +5019,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -5037,9 +5037,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0196,
                                                                                       "accession": "EPI_ISL_19614105",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -5056,6 +5053,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -5092,9 +5092,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0189,
                                                                                       "accession": "EPI_ISL_19614106",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -5111,6 +5108,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -5168,9 +5168,6 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.0189,
                                                                                               "accession": "EPI_ISL_19463986",
-                                                                                              "local": {
-                                                                                                "value": "local"
-                                                                                              },
                                                                                               "clade": {
                                                                                                 "value": "V1A.3a.2",
                                                                                                 "confidence": {
@@ -5187,6 +5184,9 @@
                                                                                               },
                                                                                               "country": {
                                                                                                 "value": "Peru"
+                                                                                              },
+                                                                                              "local": {
+                                                                                                "value": "local"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {
@@ -5198,9 +5198,6 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.0196,
                                                                                               "accession": "EPI_ISL_19463991",
-                                                                                              "local": {
-                                                                                                "value": "local"
-                                                                                              },
                                                                                               "clade": {
                                                                                                 "value": "V1A.3a.2",
                                                                                                 "confidence": {
@@ -5217,6 +5214,9 @@
                                                                                               },
                                                                                               "country": {
                                                                                                 "value": "Peru"
+                                                                                              },
+                                                                                              "local": {
+                                                                                                "value": "local"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {
@@ -5257,9 +5257,6 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.0189,
                                                                                               "accession": "EPI_ISL_19463931",
-                                                                                              "local": {
-                                                                                                "value": "local"
-                                                                                              },
                                                                                               "clade": {
                                                                                                 "value": "V1A.3a.2",
                                                                                                 "confidence": {
@@ -5276,6 +5273,9 @@
                                                                                               },
                                                                                               "country": {
                                                                                                 "value": "Peru"
+                                                                                              },
+                                                                                              "local": {
+                                                                                                "value": "local"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {
@@ -5310,9 +5310,6 @@
                                                                                                 "node_attrs": {
                                                                                                   "div": 0.0189,
                                                                                                   "accession": "EPI_ISL_19614276",
-                                                                                                  "local": {
-                                                                                                    "value": "local"
-                                                                                                  },
                                                                                                   "clade": {
                                                                                                     "value": "V1A.3a.2",
                                                                                                     "confidence": {
@@ -5329,6 +5326,9 @@
                                                                                                   },
                                                                                                   "country": {
                                                                                                     "value": "Peru"
+                                                                                                  },
+                                                                                                  "local": {
+                                                                                                    "value": "local"
                                                                                                   }
                                                                                                 },
                                                                                                 "branch_attrs": {
@@ -5363,9 +5363,6 @@
                                                                                                     "node_attrs": {
                                                                                                       "div": 0.0189,
                                                                                                       "accession": "EPI_ISL_19614275",
-                                                                                                      "local": {
-                                                                                                        "value": "local"
-                                                                                                      },
                                                                                                       "clade": {
                                                                                                         "value": "V1A.3a.2",
                                                                                                         "confidence": {
@@ -5382,6 +5379,9 @@
                                                                                                       },
                                                                                                       "country": {
                                                                                                         "value": "Peru"
+                                                                                                      },
+                                                                                                      "local": {
+                                                                                                        "value": "local"
                                                                                                       }
                                                                                                     },
                                                                                                     "branch_attrs": {
@@ -5416,9 +5416,6 @@
                                                                                                         "node_attrs": {
                                                                                                           "div": 0.0189,
                                                                                                           "accession": "EPI_ISL_19614271",
-                                                                                                          "local": {
-                                                                                                            "value": "local"
-                                                                                                          },
                                                                                                           "clade": {
                                                                                                             "value": "V1A.3a.2",
                                                                                                             "confidence": {
@@ -5435,6 +5432,9 @@
                                                                                                           },
                                                                                                           "country": {
                                                                                                             "value": "Peru"
+                                                                                                          },
+                                                                                                          "local": {
+                                                                                                            "value": "local"
                                                                                                           }
                                                                                                         },
                                                                                                         "branch_attrs": {
@@ -5446,9 +5446,6 @@
                                                                                                         "node_attrs": {
                                                                                                           "div": 0.0189,
                                                                                                           "accession": "EPI_ISL_19463960",
-                                                                                                          "local": {
-                                                                                                            "value": "local"
-                                                                                                          },
                                                                                                           "clade": {
                                                                                                             "value": "V1A.3a.2",
                                                                                                             "confidence": {
@@ -5465,6 +5462,9 @@
                                                                                                           },
                                                                                                           "country": {
                                                                                                             "value": "Peru"
+                                                                                                          },
+                                                                                                          "local": {
+                                                                                                            "value": "local"
                                                                                                           }
                                                                                                         },
                                                                                                         "branch_attrs": {
@@ -5515,9 +5515,6 @@
                                                                             "node_attrs": {
                                                                               "div": 0.0188,
                                                                               "accession": "EPI_ISL_19463928",
-                                                                              "local": {
-                                                                                "value": "local"
-                                                                              },
                                                                               "clade": {
                                                                                 "value": "V1A.3a.2",
                                                                                 "confidence": {
@@ -5534,6 +5531,9 @@
                                                                               },
                                                                               "country": {
                                                                                 "value": "Peru"
+                                                                              },
+                                                                              "local": {
+                                                                                "value": "local"
                                                                               }
                                                                             },
                                                                             "branch_attrs": {
@@ -5599,9 +5599,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0196,
                                                                                       "accession": "EPI_ISL_19614103",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -5618,6 +5615,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -5656,9 +5656,6 @@
                                                                                         "node_attrs": {
                                                                                           "div": 0.0189,
                                                                                           "accession": "EPI_ISL_19463966",
-                                                                                          "local": {
-                                                                                            "value": "local"
-                                                                                          },
                                                                                           "clade": {
                                                                                             "value": "V1A.3a.2",
                                                                                             "confidence": {
@@ -5675,6 +5672,9 @@
                                                                                           },
                                                                                           "country": {
                                                                                             "value": "Peru"
+                                                                                          },
+                                                                                          "local": {
+                                                                                            "value": "local"
                                                                                           }
                                                                                         },
                                                                                         "branch_attrs": {
@@ -5686,9 +5686,6 @@
                                                                                         "node_attrs": {
                                                                                           "div": 0.0189,
                                                                                           "accession": "EPI_ISL_19614104",
-                                                                                          "local": {
-                                                                                            "value": "local"
-                                                                                          },
                                                                                           "clade": {
                                                                                             "value": "V1A.3a.2",
                                                                                             "confidence": {
@@ -5705,6 +5702,9 @@
                                                                                           },
                                                                                           "country": {
                                                                                             "value": "Peru"
+                                                                                          },
+                                                                                          "local": {
+                                                                                            "value": "local"
                                                                                           }
                                                                                         },
                                                                                         "branch_attrs": {
@@ -5743,9 +5743,6 @@
                                                                                     "node_attrs": {
                                                                                       "div": 0.0181,
                                                                                       "accession": "EPI_ISL_19463990",
-                                                                                      "local": {
-                                                                                        "value": "local"
-                                                                                      },
                                                                                       "clade": {
                                                                                         "value": "V1A.3a.2",
                                                                                         "confidence": {
@@ -5762,6 +5759,9 @@
                                                                                       },
                                                                                       "country": {
                                                                                         "value": "Peru"
+                                                                                      },
+                                                                                      "local": {
+                                                                                        "value": "local"
                                                                                       }
                                                                                     },
                                                                                     "branch_attrs": {
@@ -5819,9 +5819,6 @@
                                                                                             "node_attrs": {
                                                                                               "div": 0.0181,
                                                                                               "accession": "EPI_ISL_19463959",
-                                                                                              "local": {
-                                                                                                "value": "local"
-                                                                                              },
                                                                                               "clade": {
                                                                                                 "value": "V1A.3a.2",
                                                                                                 "confidence": {
@@ -5838,6 +5835,9 @@
                                                                                               },
                                                                                               "country": {
                                                                                                 "value": "Peru"
+                                                                                              },
+                                                                                              "local": {
+                                                                                                "value": "local"
                                                                                               }
                                                                                             },
                                                                                             "branch_attrs": {
@@ -5872,9 +5872,6 @@
                                                                                                 "node_attrs": {
                                                                                                   "div": 0.0181,
                                                                                                   "accession": "EPI_ISL_19463926",
-                                                                                                  "local": {
-                                                                                                    "value": "local"
-                                                                                                  },
                                                                                                   "clade": {
                                                                                                     "value": "V1A.3a.2",
                                                                                                     "confidence": {
@@ -5891,6 +5888,9 @@
                                                                                                   },
                                                                                                   "country": {
                                                                                                     "value": "Peru"
+                                                                                                  },
+                                                                                                  "local": {
+                                                                                                    "value": "local"
                                                                                                   }
                                                                                                 },
                                                                                                 "branch_attrs": {
@@ -5925,9 +5925,6 @@
                                                                                                     "node_attrs": {
                                                                                                       "div": 0.0181,
                                                                                                       "accession": "EPI_ISL_19614108",
-                                                                                                      "local": {
-                                                                                                        "value": "local"
-                                                                                                      },
                                                                                                       "clade": {
                                                                                                         "value": "V1A.3a.2",
                                                                                                         "confidence": {
@@ -5944,6 +5941,9 @@
                                                                                                       },
                                                                                                       "country": {
                                                                                                         "value": "Peru"
+                                                                                                      },
+                                                                                                      "local": {
+                                                                                                        "value": "local"
                                                                                                       }
                                                                                                     },
                                                                                                     "branch_attrs": {
@@ -5978,9 +5978,6 @@
                                                                                                         "node_attrs": {
                                                                                                           "div": 0.0181,
                                                                                                           "accession": "EPI_ISL_19413816",
-                                                                                                          "local": {
-                                                                                                            "value": "local"
-                                                                                                          },
                                                                                                           "clade": {
                                                                                                             "value": "V1A.3a.2",
                                                                                                             "confidence": {
@@ -5997,6 +5994,9 @@
                                                                                                           },
                                                                                                           "country": {
                                                                                                             "value": "Peru"
+                                                                                                          },
+                                                                                                          "local": {
+                                                                                                            "value": "local"
                                                                                                           }
                                                                                                         },
                                                                                                         "branch_attrs": {
@@ -6008,9 +6008,6 @@
                                                                                                         "node_attrs": {
                                                                                                           "div": 0.0181,
                                                                                                           "accession": "EPI_ISL_19463961",
-                                                                                                          "local": {
-                                                                                                            "value": "local"
-                                                                                                          },
                                                                                                           "clade": {
                                                                                                             "value": "V1A.3a.2",
                                                                                                             "confidence": {
@@ -6027,6 +6024,9 @@
                                                                                                           },
                                                                                                           "country": {
                                                                                                             "value": "Peru"
+                                                                                                          },
+                                                                                                          "local": {
+                                                                                                            "value": "local"
                                                                                                           }
                                                                                                         },
                                                                                                         "branch_attrs": {
@@ -6102,9 +6102,6 @@
                                                                                                 "node_attrs": {
                                                                                                   "div": 0.0189,
                                                                                                   "accession": "EPI_ISL_19614107",
-                                                                                                  "local": {
-                                                                                                    "value": "local"
-                                                                                                  },
                                                                                                   "clade": {
                                                                                                     "value": "V1A.3a.2",
                                                                                                     "confidence": {
@@ -6121,6 +6118,9 @@
                                                                                                   },
                                                                                                   "country": {
                                                                                                     "value": "Peru"
+                                                                                                  },
+                                                                                                  "local": {
+                                                                                                    "value": "local"
                                                                                                   }
                                                                                                 },
                                                                                                 "branch_attrs": {
@@ -6132,9 +6132,6 @@
                                                                                                 "node_attrs": {
                                                                                                   "div": 0.0196,
                                                                                                   "accession": "EPI_ISL_19463927",
-                                                                                                  "local": {
-                                                                                                    "value": "local"
-                                                                                                  },
                                                                                                   "clade": {
                                                                                                     "value": "V1A.3a.2",
                                                                                                     "confidence": {
@@ -6151,6 +6148,9 @@
                                                                                                   },
                                                                                                   "country": {
                                                                                                     "value": "Peru"
+                                                                                                  },
+                                                                                                  "local": {
+                                                                                                    "value": "local"
                                                                                                   }
                                                                                                 },
                                                                                                 "branch_attrs": {
@@ -6200,9 +6200,6 @@
                                                                                                 "node_attrs": {
                                                                                                   "div": 0.0189,
                                                                                                   "accession": "EPI_ISL_19614277",
-                                                                                                  "local": {
-                                                                                                    "value": "local"
-                                                                                                  },
                                                                                                   "clade": {
                                                                                                     "value": "V1A.3a.2",
                                                                                                     "confidence": {
@@ -6219,6 +6216,9 @@
                                                                                                   },
                                                                                                   "country": {
                                                                                                     "value": "Peru"
+                                                                                                  },
+                                                                                                  "local": {
+                                                                                                    "value": "local"
                                                                                                   }
                                                                                                 },
                                                                                                 "branch_attrs": {
@@ -6266,9 +6266,6 @@
                                                                                                     "node_attrs": {
                                                                                                       "div": 0.0203,
                                                                                                       "accession": "EPI_ISL_19463992",
-                                                                                                      "local": {
-                                                                                                        "value": "local"
-                                                                                                      },
                                                                                                       "clade": {
                                                                                                         "value": "V1A.3a.2",
                                                                                                         "confidence": {
@@ -6285,6 +6282,9 @@
                                                                                                       },
                                                                                                       "country": {
                                                                                                         "value": "Peru"
+                                                                                                      },
+                                                                                                      "local": {
+                                                                                                        "value": "local"
                                                                                                       }
                                                                                                     },
                                                                                                     "branch_attrs": {
@@ -6335,9 +6335,6 @@
                                                                                                         "node_attrs": {
                                                                                                           "div": 0.0189,
                                                                                                           "accession": "EPI_ISL_19463933",
-                                                                                                          "local": {
-                                                                                                            "value": "local"
-                                                                                                          },
                                                                                                           "clade": {
                                                                                                             "value": "V1A.3a.2",
                                                                                                             "confidence": {
@@ -6354,6 +6351,9 @@
                                                                                                           },
                                                                                                           "country": {
                                                                                                             "value": "Peru"
+                                                                                                          },
+                                                                                                          "local": {
+                                                                                                            "value": "local"
                                                                                                           }
                                                                                                         },
                                                                                                         "branch_attrs": {
@@ -6398,9 +6398,6 @@
                                                                                                             "node_attrs": {
                                                                                                               "div": 0.0196,
                                                                                                               "accession": "EPI_ISL_19463938",
-                                                                                                              "local": {
-                                                                                                                "value": "local"
-                                                                                                              },
                                                                                                               "clade": {
                                                                                                                 "value": "V1A.3a.2",
                                                                                                                 "confidence": {
@@ -6417,6 +6414,9 @@
                                                                                                               },
                                                                                                               "country": {
                                                                                                                 "value": "Peru"
+                                                                                                              },
+                                                                                                              "local": {
+                                                                                                                "value": "local"
                                                                                                               }
                                                                                                             },
                                                                                                             "branch_attrs": {
@@ -6439,9 +6439,6 @@
                                                                                                             "node_attrs": {
                                                                                                               "div": 0.0182,
                                                                                                               "accession": "EPI_ISL_19284748",
-                                                                                                              "local": {
-                                                                                                                "value": "local"
-                                                                                                              },
                                                                                                               "clade": {
                                                                                                                 "value": "V1A.3a.2",
                                                                                                                 "confidence": {
@@ -6458,6 +6455,9 @@
                                                                                                               },
                                                                                                               "country": {
                                                                                                                 "value": "Peru"
+                                                                                                              },
+                                                                                                              "local": {
+                                                                                                                "value": "local"
                                                                                                               }
                                                                                                             },
                                                                                                             "branch_attrs": {

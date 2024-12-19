@@ -252,7 +252,6 @@ rule export_lineage:
         auspice_config = 'input/config/build-lineages/auspice_config.json',
     output:
         auspice_json = os.path.join(
-            'output',
             'auspice',
             'lineages_{subtype}_{segment}.json'),
     shell:

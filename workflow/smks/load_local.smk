@@ -7,7 +7,6 @@ filters sequences for length.
 # IMPORTS
 
 # VARIABLES
-workdir: '/workspaces/flu_pisaac-2024/'
 out_dir = 'output/data/local/'
 min_length = { # Minimum length for each segment, copied from Nextstrain
     'HA': 1500,

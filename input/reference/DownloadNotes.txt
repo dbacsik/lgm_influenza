@@ -1,0 +1,4 @@
+Nextstrain build uses B/Austria/1359417/2021 (EPI1926632) for reference strain.
+However, because I need a .gbk file, I wanted something from NCBI. I BLAST this reference
+strain and found a high-quality, full genome sequence that has 99% identity with
+B/Colorado/01/2022 (OQ202364).

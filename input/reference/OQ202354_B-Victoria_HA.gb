@@ -1,0 +1,105 @@
+LOCUS       OQ202354                1847 bp    cRNA    linear   VRL 15-JAN-2023
+DEFINITION  Influenza B virus (B/Colorado/01/2022) segment 4 hemagglutinin (HA)
+            gene, complete cds.
+ACCESSION   OQ202354
+VERSION     OQ202354.1
+DBLINK      BioProject: PRJNA37813
+KEYWORDS    .
+SOURCE      Influenza B virus
+  ORGANISM  Influenza B virus
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Betainfluenzavirus; Betainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 1847)
+  AUTHORS   Wentworth,D., Barnes,J., Steel,J., Garten,R., Davis,T. and Dugan,V.
+  TITLE     Influenza Sequencing Activity group
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1847)
+  AUTHORS   Wentworth,D., Barnes,J., Steel,J., Garten,R., Davis,T. and Dugan,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2023) WHO Collaborating Center for Surveillance,
+            Epidemiology and Control of Influenza, Influenza Division, Centers
+            for Disease Control and Prevention, 1600 Clifton Road, N.E.,
+            Atlanta, GA 30333, USA
+COMMENT     ##FluData-START##
+            EPI_ISOLATE_ID   :: EPI_ISL_15927684
+            NAME             :: B/Colorado/01/2022
+            TYPE             :: B
+            Segment_name     :: HA
+            HOST_AGE         :: 28
+            HOST_GENDER      :: M
+            PASSAGE          :: Original
+            LOCATION         :: United States / Colorado
+            COLLECT_DATE     :: 15-Oct-2022
+            Lineage          :: Victoria
+            SPECIMEN_ID      :: 2103695872 ORIGINAL
+            SENDER_LAB       :: Colorado Department of Health Lab
+            SEQLAB_SAMPLE_ID :: 3030726931
+            EPI_SEQUENCE_ID  :: EPI2223497
+            ##FluData-END##
+FEATURES             Location/Qualifiers
+     source          1..1847
+                     /organism="Influenza B virus"
+                     /mol_type="viral cRNA"
+                     /strain="B/Colorado/01/2022"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11520"
+                     /segment="4"
+                     /geo_loc_name="USA: Colorado"
+                     /collection_date="15-Oct-2022"
+                     /note="passage details:Original;
+                     type: Victoria"
+     gene            20..1768
+                     /gene="HA"
+     CDS             20..1768
+                     /gene="HA"
+                     /function="receptor binding and fusion protein"
+                     /codon_start=1
+                     /product="hemagglutinin"
+                     /protein_id="WBO06546.1"
+                     /translation="MKAIIVLLMVVTSNADRICTGITSSNSPHVVKTATQGEVNVTGV
+                     IPLTTTPTKSHFANLKGTETRGKLCPKCLNCTDLDVALGRPKCTGKIPSARVSILHEV
+                     RPVTSGCFPIMHDRTKIRQLPNLLRGYEHVRLSTNNVINTKDAPGGPYEIGTSGSCLN
+                     ITNGKGFFETMAWAVPKNKTATNPLTIEVPYICTEEEDQITVWGFHSDDETQMARLYG
+                     DPKPQKFTSSANGVTTHYVSQIGGFPNQTEDGGLPQSGRIVVDYMVQKSGKTGTITYQ
+                     RGILLPQKVWCASGKSKVIKGSLPLIGEADCLHEKYGGLNKSKPYYTGEHAKAIGNCP
+                     IWVKTPLKLANGTKYRPPAKLLKERGFFGAIAGFLEGGWEGMIAGWHGYTSHGAHGVA
+                     VAADLKSTQEAINKITKNLNSLSELEVKNLQRLSGAMDELHNEILELDEKVDDLRADT
+                     ISSQIELAVLLSNEGIINSEDEHLLALERKLKKMLGPSAVEIGNGCFETKHKCNQTCL
+                     DRIAAGTFDAGEFSLPTFDSLNITAASLNDDGLDNHTILLYYSTAASSLAVTLMIAIF
+                     VVYMVSRDNVSCSICL"
+ORIGIN      
+        1 attttctaat atccacaaaa tgaaggcaat aattgtacta ctcatggtag taacatccaa
+       61 tgcagatcga atctgcactg ggataacatc gtcaaactca ccacatgtcg tcaaaactgc
+      121 tactcaaggg gaggtcaatg tgaccggtgt aataccactg acaacaacac ccaccaaatc
+      181 tcattttgca aatctcaaag gaacagaaac cagggggaaa ctatgcccaa aatgcctaaa
+      241 ctgcacagat ctggatgtag ccttgggcag accaaaatgc acagggaaaa taccctctgc
+      301 aagggtttca atactccatg aagtcagacc tgttacatct gggtgctttc ctataatgca
+      361 tgatagaaca aaaattagac agctgcctaa ccttctccga ggatacgaac atgtcaggtt
+      421 atcaactaac aacgttatca atacaaaaga tgcaccagga ggaccctacg aaattggaac
+      481 ctcagggtct tgcctcaaca ttaccaatgg aaaaggattc ttcgaaacaa tggcttgggc
+      541 cgtcccaaaa aataaaacag caacaaatcc attaacaata gaagtaccat acatttgtac
+      601 agaagaagaa gaccaaatta ccgtttgggg gttccactct gacgacgaga cccaaatggc
+      661 aaggctctat ggggatccaa agccccagaa gttcacctca tctgccaacg gagtgaccac
+      721 acactacgtc tcacagattg gtggcttccc aaatcaaaca gaagacggag gactaccaca
+      781 aagtggcaga attgttgttg attacatggt gcaaaaatct ggaaaaacag gaacaattac
+      841 ctatcaaaga ggtattttgt tgcctcaaaa ggtgtggtgc gcaagtggca agagcaaggt
+      901 aataaaagga tccttgccct taattggaga agcagattgc ctccatgaaa aatacggtgg
+      961 attaaacaaa agcaagcctt actacacagg ggaacatgca aaggccatag gaaattgccc
+     1021 aatatgggtg aaaacaccct tgaagctggc caatggaacc aaatatagac ctcctgcaaa
+     1081 actattaaag gaaagaggtt tcttcggagc cattgctggt ttcttagagg gaggatggga
+     1141 aggaatgatt gcaggttggc acggatacac atcccatggg gcacatggag tagcggtggc
+     1201 agctgacctt aagagcactc aagaggccat aaacaagata acaaaaaatc tcaactcttt
+     1261 gagtgagctg gaagtaaaga atcttcaaag actaagcggt gccatggatg aactccacaa
+     1321 cgaaatacta gaactagatg agaaagtgga tgatctcaga gctgatacaa taagctcaca
+     1381 gatagaactc gcagtcctgc tttccaatga aggaataata aacagtgaag atgaacatct
+     1441 cttggcgctt gaaagaaagc tgaagaaaat gctgggcccc tctgctgtag agatagggaa
+     1501 tggatgcttt gaaaccaaac acaagtgcaa ccagacctgt ctcgacagaa tagctgctgg
+     1561 tacctttgat gcaggagaat tttctctccc cacctttgat tcactgaata ttactgctgc
+     1621 atctttaaat gacgatggat tggacaatca tactatactg ctttactact caactgctgc
+     1681 ctccagtttg gctgtaacac tgatgatagc tatctttgtt gtttatatgg tctccagaga
+     1741 caatgtttct tgctccattt gtctataagg aaagttaagc cctgtatttt cctttattgt
+     1801 agtgcttgtt tgcttgttgt cattacaaag aaacgttatt gaaaaat
+//
+

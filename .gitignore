@@ -12,3 +12,5 @@ jovyan/
 *.RData*
 
 # Exceptions
+# Reference sequences
+!input/reference/*

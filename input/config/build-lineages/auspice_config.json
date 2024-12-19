@@ -1,0 +1,44 @@
+{
+    "title": "Influenza Lineage Tree",
+    "maintainers": [
+      {
+        "name": "David Bacsik and Pablo Tsukayama",
+        "url": "https://investigacion.cayetano.edu.pe/catalogo/saludintegral-genomicamicrobiana/"
+      }
+    ],
+    "build_url": "https://github.com/dbacsik/lgm_influeza",
+    "data_provenance": [
+      {
+        "name": "GISAID"
+      }
+    ],
+    "colorings": [
+      {
+        "key": "local",
+        "title": "Local",
+        "type": "categorical"
+      },
+      {
+        "key": "clade",
+        "title": "Clade",
+        "type": "categorical"
+      },
+      {
+        "key": "country",
+        "title": "Country",
+        "type": "categorical"
+      }
+    ],
+    "filters": [
+      "local",
+      "clade",
+      "country"
+    ],
+    "display_defaults": {
+      "panels": ["tree"],
+      "layout": "rect",
+      "distance_measure": "div",
+      "color_by": "local",
+      "branch_label": "clade"
+    }
+  }

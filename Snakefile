@@ -9,13 +9,14 @@ build: https://github.com/nextstrain/avian-flu/blob/master/quickstart-build/Snak
 
 # VARIABLES
 SUBTYPES = ['B-Victoria']
+SEGMENTS = ['HA', 'NA']
 
 # ALL RULE
 rule all:
     input:
         ingest_local = expand(
-            'output/data/local/{subtype}_filterLength.fasta',
-            subtype=SUBTYPES),
+            'output/data/local/{subtype}_{segment}_filterLength.tsv',
+            subtype=SUBTYPES, segment=SEGMENTS),
 
 # Includes
 include: "workflow/smks/load_local.smk"

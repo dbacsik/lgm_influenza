@@ -1,0 +1,658 @@
+{
+  "alignment": "output/build-lineages/align/B-Victoria_HA_alignment.fasta",
+  "generated_by": {
+    "program": "augur",
+    "version": "27.0.0"
+  },
+  "input_tree": "output/build-lineages/tree/B-Victoria_HA_raw.nwk",
+  "nodes": {
+    "B/Abudhabi/061/2019": {
+      "branch_length": 0.00108416
+    },
+    "B/Argentina/100/2020": {
+      "branch_length": 0.00491104
+    },
+    "B/Austria/1359417/2021____21/224_": {
+      "branch_length": 0.00162829
+    },
+    "B/Canterbury/14/2019": {
+      "branch_length": 0.0062148
+    },
+    "B/Colorado/06/2017": {
+      "branch_length": 0.00052696
+    },
+    "B/Ecuador/1135/2023": {
+      "branch_length": 0.0
+    },
+    "B/Ecuador/140/2023": {
+      "branch_length": 0.00108496
+    },
+    "B/Ecuador/4157/2023": {
+      "branch_length": 0.00054236
+    },
+    "B/Ecuador/5408/2023": {
+      "branch_length": 0.0
+    },
+    "B/Ecuador/5450/2023": {
+      "branch_length": 1e-06
+    },
+    "B/Ecuador/5527/2024": {
+      "branch_length": 0.0
+    },
+    "B/Ecuador/9768/2023": {
+      "branch_length": 0.00162802
+    },
+    "B/Ecuador/GSB-1171-1496/2023": {
+      "branch_length": 0.0005838
+    },
+    "B/Hong_Kong/286/2017": {
+      "branch_length": 2.06e-06
+    },
+    "B/Jiangxi-Yushui/11102/2014": {
+      "branch_length": 0.01283779
+    },
+    "B/Nepal/20FL0829/2020": {
+      "branch_length": 0.00229338
+    },
+    "B/New_Caledonia/118/2015": {
+      "branch_length": 2.1e-06
+    },
+    "B/New_York/72/2024": {
+      "branch_length": 0.00598852
+    },
+    "B/Peru/01237Aaeev/2023": {
+      "branch_length": 0.00054178
+    },
+    "B/Peru/01237Aaeew/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/01237Aaefa/2023": {
+      "branch_length": 2.69e-06
+    },
+    "B/Peru/01237Aaefb/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/02645Aaaek/2023": {
+      "branch_length": 1e-06
+    },
+    "B/Peru/02883Aalsw/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/02883Aalsx/2023": {
+      "branch_length": 0.00108394
+    },
+    "B/Peru/02883Aaltu/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/02885Aahkz/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/02885Aahlc/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/02885Aahnc/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/02885Aahng/2023": {
+      "branch_length": 0.00108461
+    },
+    "B/Peru/02888Aakdk/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/02888Aakdn/2023": {
+      "branch_length": 0.00054154
+    },
+    "B/Peru/02888Aakpr/2024": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/03472/2023": {
+      "branch_length": 0.00162641
+    },
+    "B/Peru/0727/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/0753/2023": {
+      "branch_length": 0.00108392
+    },
+    "B/Peru/10185Aanzs/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/1232/2023": {
+      "branch_length": 0.0005422
+    },
+    "B/Peru/1237/2023": {
+      "branch_length": 0.00108437
+    },
+    "B/Peru/1292/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/1293/2023": {
+      "branch_length": 0.00108339
+    },
+    "B/Peru/1409/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/2017/2023": {
+      "branch_length": 0.00054264
+    },
+    "B/Peru/2161/2023": {
+      "branch_length": 0.00054193
+    },
+    "B/Peru/2645/2023": {
+      "branch_length": 1e-06
+    },
+    "B/Peru/2831/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/2883/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/2885/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/2888/2023": {
+      "branch_length": 0.00271997
+    },
+    "B/Peru/3472/2023": {
+      "branch_length": 0.00162781
+    },
+    "B/Peru/3886/2023": {
+      "branch_length": 0.00054186
+    },
+    "B/Peru/4054/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/4211/2023": {
+      "branch_length": 0.00373677
+    },
+    "B/Peru/4317/2023": {
+      "branch_length": 0.0
+    },
+    "B/Peru/472/2023": {
+      "branch_length": 0.00162696
+    },
+    "B/Peru/6669/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/7638/2023": {
+      "branch_length": 0.00162759
+    },
+    "B/Peru/9066/2023": {
+      "branch_length": 0.00271532
+    },
+    "B/Peru/ARE-INS-092/2024": {
+      "branch_length": 0.00054202
+    },
+    "B/Peru/GIHSN-HCL023164105501/2023": {
+      "branch_length": 0.00108452
+    },
+    "B/Peru/LIM-INS-119/2024": {
+      "branch_length": 0.00108541
+    },
+    "B/Peru/LIM-UPCH-4111/2024": {
+      "branch_length": 0.00057164
+    },
+    "B/Peru/LIM-UPCH-4112/2023": {
+      "branch_length": 2.38e-06
+    },
+    "B/Peru/LIM-UPCH-4545/2024": {
+      "branch_length": 0.00171602
+    },
+    "B/Peru/LIM-UPCH-4599/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4677/2024": {
+      "branch_length": 0.00057215
+    },
+    "B/Peru/LIM-UPCH-4681/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4682/2024": {
+      "branch_length": 0.00057193
+    },
+    "B/Peru/LIM-UPCH-4685/2024": {
+      "branch_length": 0.00057304
+    },
+    "B/Peru/LIM-UPCH-4690/2024": {
+      "branch_length": 0.00114363
+    },
+    "B/Peru/LIM-UPCH-4696/2024": {
+      "branch_length": 0.00229165
+    },
+    "B/Peru/LIM-UPCH-4697/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4698/2024": {
+      "branch_length": 0.00171613
+    },
+    "B/Peru/LIM-UPCH-4699/2024": {
+      "branch_length": 0.00057124
+    },
+    "B/Peru/LIM-UPCH-4700/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4701/2024": {
+      "branch_length": 0.00114444
+    },
+    "B/Peru/LIM-UPCH-4703/2024": {
+      "branch_length": 0.00057187
+    },
+    "B/Peru/LIM-UPCH-4704/2024": {
+      "branch_length": 0.00114439
+    },
+    "B/Peru/LIM-UPCH-4707/2024": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/LIM-UPCH-4708/2024": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/LIM-UPCH-4709/2024": {
+      "branch_length": 0.00057237
+    },
+    "B/Peru/LIM-UPCH-4715/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4716/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4717/2024": {
+      "branch_length": 0.00057181
+    },
+    "B/Peru/LIM-UPCH-4718/2024": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/LIM-UPCH-4719/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4720/2024": {
+      "branch_length": 0.00114359
+    },
+    "B/Peru/LIM-UPCH-4722/2024": {
+      "branch_length": 0.0
+    },
+    "B/Peru/LIM-UPCH-4723/2024": {
+      "branch_length": 0.00057168
+    },
+    "B/Peru/LIM-UPCH-4724/2024": {
+      "branch_length": 0.000572
+    },
+    "B/Peru/LIM-UPCH-4725/2024": {
+      "branch_length": 0.0005717
+    },
+    "B/Peru/LIM-UPCH-4726/2024": {
+      "branch_length": 0.00057196
+    },
+    "B/Peru/LIM-UPCH-4727/2024": {
+      "branch_length": 0.00057205
+    },
+    "B/Peru/LIM-UPCH-4728/2024": {
+      "branch_length": 0.00057165
+    },
+    "B/Peru/LIM-UPCH-4730/2024": {
+      "branch_length": 0.00401846
+    },
+    "B/Peru/UPCH_3860/2023": {
+      "branch_length": 0.00471985
+    },
+    "B/Peru/UPCH_3863/2023": {
+      "branch_length": 1e-06
+    },
+    "B/Peru/UPCH_3865/2023": {
+      "branch_length": 1e-06
+    },
+    "B/Peru/UPCH_3869/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/UPCH_3870/2023": {
+      "branch_length": 2.06e-06
+    },
+    "B/Peru/UPCH_3919/2023": {
+      "branch_length": 0.00059147
+    },
+    "B/Rhode_Island/01/2019": {
+      "branch_length": 0.00217047
+    },
+    "B/Tak/F2636/2024": {
+      "branch_length": 0.0051604
+    },
+    "B/Victoria/905/2019": {
+      "branch_length": 0.00217035
+    },
+    "B/WAKAYAMA/32/2013": {
+      "branch_length": 0.00226737
+    },
+    "B/Washington/02/2019": {
+      "branch_length": 0.00217989
+    },
+    "B/Zambia/7419/2022": {
+      "branch_length": 0.00930916
+    },
+    "B/Zhejiang-Longwan/11200/2021": {
+      "branch_length": 0.00163356
+    },
+    "B/Zhejiang-Yuecheng/1554/2022": {
+      "branch_length": 0.00163286
+    },
+    "NODE_0000000": {
+      "branch_length": 0.001
+    },
+    "NODE_0000001": {
+      "branch_length": 0.00217324
+    },
+    "NODE_0000002": {
+      "branch_length": 0.00108183
+    },
+    "NODE_0000003": {
+      "branch_length": 0.00326842
+    },
+    "NODE_0000004": {
+      "branch_length": 0.00053806
+    },
+    "NODE_0000005": {
+      "branch_length": 0.00162894
+    },
+    "NODE_0000006": {
+      "branch_length": 2.92e-06
+    },
+    "NODE_0000007": {
+      "branch_length": 0.00271899
+    },
+    "NODE_0000008": {
+      "branch_length": 0.00052933
+    },
+    "NODE_0000009": {
+      "branch_length": 0.00217438
+    },
+    "NODE_0000010": {
+      "branch_length": 0.00054147
+    },
+    "NODE_0000011": {
+      "branch_length": 2.76e-06
+    },
+    "NODE_0000012": {
+      "branch_length": 0.00327481
+    },
+    "NODE_0000013": {
+      "branch_length": 2.17e-06
+    },
+    "NODE_0000014": {
+      "branch_length": 0.00380281
+    },
+    "NODE_0000015": {
+      "branch_length": 0.00695992
+    },
+    "NODE_0000016": {
+      "branch_length": 0.00162959
+    },
+    "NODE_0000017": {
+      "branch_length": 0.00217421
+    },
+    "NODE_0000018": {
+      "branch_length": 0.0006097
+    },
+    "NODE_0000019": {
+      "branch_length": 2.64e-06
+    },
+    "NODE_0000020": {
+      "branch_length": 0.00380312
+    },
+    "NODE_0000021": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000022": {
+      "branch_length": 2.17e-06
+    },
+    "NODE_0000023": {
+      "branch_length": 2.97e-06
+    },
+    "NODE_0000024": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000025": {
+      "branch_length": 0.00108444
+    },
+    "NODE_0000026": {
+      "branch_length": 2.79e-06
+    },
+    "NODE_0000027": {
+      "branch_length": 2.69e-06
+    },
+    "NODE_0000028": {
+      "branch_length": 2.6e-06
+    },
+    "NODE_0000029": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000030": {
+      "branch_length": 0.0
+    },
+    "NODE_0000031": {
+      "branch_length": 0.00108411
+    },
+    "NODE_0000032": {
+      "branch_length": 2.86e-06
+    },
+    "NODE_0000033": {
+      "branch_length": 2.99e-06
+    },
+    "NODE_0000034": {
+      "branch_length": 0.0010834
+    },
+    "NODE_0000035": {
+      "branch_length": 0.00172115
+    },
+    "NODE_0000036": {
+      "branch_length": 0.00326326
+    },
+    "NODE_0000037": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000038": {
+      "branch_length": 0.0016267
+    },
+    "NODE_0000039": {
+      "branch_length": 2.97e-06
+    },
+    "NODE_0000040": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000041": {
+      "branch_length": 0.00054226
+    },
+    "NODE_0000042": {
+      "branch_length": 0.0005428
+    },
+    "NODE_0000043": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000044": {
+      "branch_length": 0.00054207
+    },
+    "NODE_0000045": {
+      "branch_length": 2.05e-06
+    },
+    "NODE_0000046": {
+      "branch_length": 2.71e-06
+    },
+    "NODE_0000047": {
+      "branch_length": 0.00054233
+    },
+    "NODE_0000048": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000049": {
+      "branch_length": 2.15e-06
+    },
+    "NODE_0000050": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000051": {
+      "branch_length": 2.07e-06
+    },
+    "NODE_0000052": {
+      "branch_length": 2.26e-06
+    },
+    "NODE_0000053": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000054": {
+      "branch_length": 0.0
+    },
+    "NODE_0000055": {
+      "branch_length": 2.01e-06
+    },
+    "NODE_0000056": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000057": {
+      "branch_length": 0.00054226
+    },
+    "NODE_0000058": {
+      "branch_length": 0.00108415
+    },
+    "NODE_0000059": {
+      "branch_length": 2.1e-06
+    },
+    "NODE_0000060": {
+      "branch_length": 2.82e-06
+    },
+    "NODE_0000061": {
+      "branch_length": 0.00057139
+    },
+    "NODE_0000062": {
+      "branch_length": 2.37e-06
+    },
+    "NODE_0000063": {
+      "branch_length": 2.14e-06
+    },
+    "NODE_0000064": {
+      "branch_length": 2.72e-06
+    },
+    "NODE_0000065": {
+      "branch_length": 0.0038026
+    },
+    "NODE_0000066": {
+      "branch_length": 0.00054184
+    },
+    "NODE_0000067": {
+      "branch_length": 2.21e-06
+    },
+    "NODE_0000068": {
+      "branch_length": 0.00217028
+    },
+    "NODE_0000069": {
+      "branch_length": 0.00054203
+    },
+    "NODE_0000070": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000071": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000072": {
+      "branch_length": 2.83e-06
+    },
+    "NODE_0000073": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000074": {
+      "branch_length": 0.00162776
+    },
+    "NODE_0000075": {
+      "branch_length": 0.00054222
+    },
+    "NODE_0000076": {
+      "branch_length": 0.00054262
+    },
+    "NODE_0000077": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000078": {
+      "branch_length": 0.00054218
+    },
+    "NODE_0000079": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000080": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000081": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000082": {
+      "branch_length": 1.28e-06
+    },
+    "NODE_0000083": {
+      "branch_length": 2.32e-06
+    },
+    "NODE_0000084": {
+      "branch_length": 2.3e-06
+    },
+    "NODE_0000085": {
+      "branch_length": 2.83e-06
+    },
+    "NODE_0000086": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000087": {
+      "branch_length": 0.00057246
+    },
+    "NODE_0000088": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000089": {
+      "branch_length": 2.7e-06
+    },
+    "NODE_0000090": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000091": {
+      "branch_length": 2.38e-06
+    },
+    "NODE_0000092": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000093": {
+      "branch_length": 0.0
+    },
+    "NODE_0000094": {
+      "branch_length": 2.1e-06
+    },
+    "NODE_0000095": {
+      "branch_length": 2.48e-06
+    },
+    "NODE_0000096": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000097": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000098": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000099": {
+      "branch_length": 2.11e-06
+    },
+    "NODE_0000100": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000101": {
+      "branch_length": 1e-06
+    },
+    "NODE_0000102": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000103": {
+      "branch_length": 2.06e-06
+    },
+    "NODE_0000104": {
+      "branch_length": 0.0
+    },
+    "NODE_0000105": {
+      "branch_length": 0.0
+    },
+    "NODE_0000106": {
+      "branch_length": 0.0
+    }
+  }
+}

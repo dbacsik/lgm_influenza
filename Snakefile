@@ -20,7 +20,11 @@ rule all:
         load_lineages = expand(
             'output/build-lineages/data/{subtype}_{segment}_lineages.tsv',
             subtype=SUBTYPES, segment=SEGMENTS),
+        build_lineages = expand(
+            'output/build-lineages/tree/{subtype}_{segment}_refined.nwk',
+            subtype=SUBTYPES, segment=SEGMENTS)
 
 # Includes
 include: 'workflow/smks/load_local.smk'
 include: 'workflow/smks/load_lineages.smk'
+include: 'workflow/smks/build-lineages.smk'

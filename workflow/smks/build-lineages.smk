@@ -16,7 +16,8 @@ ref_files = {
     'B-Victoria': {
         'HA': {
             'FASTA': 'input/reference/OQ202354_B-Victoria_HA.fasta',
-            'gbk': 'input/reference/OQ202354_B-Victoria_HA.gb'
+            'gbk': 'input/reference/OQ202354_B-Victoria_HA.gb',
+            'clade_muts': 'input/data/build-lineages/Influenza_B-Victoria_HA_clades.tsv'
         },
         'NA': {
             'FASTA': 'input/reference/OQ202364_B-Victoria_NA.fasta',
@@ -201,4 +202,54 @@ rule translate_lineage:
             --ancestral-sequences {input.ancestral_json} \
             --reference-sequence {input.reference} \
             --output-node-data {output.aa_muts}
+        """
+
+"""This rule labels HA clades based on defining mutations."""
+rule label_clades:
+    message: "Labeling clades based on mutations"
+    input:
+        tree = rules.refine_lineage.output.tree,
+        mutations = rules.translate_lineage.output.aa_muts,
+        clades = lambda wc: ref_files[wc.subtype][wc.segment]['clade_muts']
+    output:
+        clade_labels = os.path.join(
+            build_dir,
+            'tree',
+            '{subtype}_{segment}_clade_labels.json'),
+    shell:
+        """
+        augur clades \
+            --tree {input.tree} \
+            --mutations {input.mutations} \
+            --clades {input.clades} \
+            --output-node-data {output.clade_labels}
+        """
+
+## VISUALIZATION
+"""This rule exports the results of the pipeline into JSON
+for visualization in auspice."""
+rule export_lineage:
+    message: "Exporting lineage JSON files for for auspice"
+    input:
+        tree = rules.refine_lineage.output.tree,
+        metadata = rules.merge_metadata.output.metadata,
+        node_data = [rules.refine_lineage.output.node_data,
+                     rules.ancestral_lineage.output.nt_muts,
+                     rules.translate_lineage.output.aa_muts],
+                     #rules.label_clades.output.clade_labels],
+        auspice_config = 'input/config/build-lineages/auspice_config.json',
+    output:
+        auspice_json = os.path.join(
+            'output',
+            'auspice',
+            'lineages_{subtype}_{segment}.json'),
+    shell:
+        """
+        augur export v2 \
+            --tree {input.tree} \
+            --metadata {input.metadata} \
+            --node-data {input.node_data} \
+            --auspice-config {input.auspice_config} \
+            --output {output.auspice_json} \
+            --include-root-sequence-inline
         """

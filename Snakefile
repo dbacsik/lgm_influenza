@@ -21,8 +21,9 @@ rule all:
             'output/build-lineages/data/{subtype}_{segment}_lineages.tsv',
             subtype=SUBTYPES, segment=SEGMENTS),
         build_lineages = expand(
-            'output/build-lineages/tree/{subtype}_{segment}_aa_muts.json',
-            subtype=SUBTYPES, segment=SEGMENTS)
+            'output/auspice/lineages_{subtype}_{segment}.json',
+            subtype=SUBTYPES, segment=SEGMENTS),
+        clades = 'output/build-lineages/tree/B-Victoria_HA_clade_labels.json'
 
 # Includes
 include: 'workflow/smks/load_local.smk'

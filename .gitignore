@@ -1,0 +1,14 @@
+# Large sets of sequences
+*.fasta*
+*.fa*
+
+# Miscellaneous app folders
+.snakemake/
+.vscode/
+jovyan/
+
+# Miscellaneous background files
+*.DS_*
+*.RData*
+
+# Exceptions

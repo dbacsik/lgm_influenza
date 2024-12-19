@@ -32,28 +32,9 @@ rule load_local:
             --fix-dates monthfirst
         """
 
-rule filter_length:
-    input:
-        sequences = rules.load_local.output.sequences,
-        metadata = rules.load_local.output.metadata
-    output:
-        sequences = out_dir+'{subtype}_{segment}_filterLength.fasta',
-        metadata = out_dir+'{subtype}_{segment}_filterLength.tsv'
-    params:
-        min_length = lambda wc: min_length[wc.segment]
-    shell:
-        """
-        augur filter \
-            --sequences {input.sequences} \
-            --metadata {input.metadata} \
-            --min-length {params.min_length} \
-            --output-sequences {output.sequences} \
-            --output-metadata {output.metadata}
-        """
-
 rule parse_country:
     input:
-        metadata = rules.filter_length.output.metadata
+        metadata = rules.load_local.output.metadata
     output:
         metadata = out_dir+'{subtype}_{segment}_parseCountry.tsv'
     notebook:
@@ -68,4 +49,23 @@ rule add_local_flag:
         """
         awk 'BEGIN {{FS=OFS="\t"}} {{print $0, "local"}}' \
             {input.metadata} > {output.metadata}
+        """
+
+rule filter_length:
+    input:
+        sequences = rules.load_local.output.sequences,
+        metadata = rules.add_local_flag.output.metadata
+    output:
+        sequences = out_dir+'{subtype}_{segment}_filterLength.fasta',
+        metadata = out_dir+'{subtype}_{segment}_filterLength.tsv'
+    params:
+        min_length = lambda wc: min_length[wc.segment]
+    shell:
+        """
+        augur filter \
+            --sequences {input.sequences} \
+            --metadata {input.metadata} \
+            --min-length {params.min_length} \
+            --output-sequences {output.sequences} \
+            --output-metadata {output.metadata}
         """

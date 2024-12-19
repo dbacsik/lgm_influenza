@@ -12,10 +12,10 @@ out_dir = 'output/data/local/'
 # RULES
 rule load_local:
     input:
-        fasta = 'input/data/local/Influenza_{subtype}.fasta'
+        fasta = 'input/data/local/Influenza_{subtype}_{segment}.fasta'
     output:
-        sequences = out_dir+'{subtype}_raw.fasta',
-        metadata = out_dir+'{subtype}_raw.tsv'
+        sequences = out_dir+'{subtype}_{segment}_raw.fasta',
+        metadata = out_dir+'{subtype}_{segment}_raw.tsv'
     params:
         fields = "strain segment accession originating_lab date"
     shell:

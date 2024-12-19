@@ -1,0 +1,109 @@
+LOCUS       OQ202364                1529 bp    cRNA    linear   VRL 15-JAN-2023
+DEFINITION  Influenza B virus (B/Colorado/01/2022) segment 6 NB protein (NB)
+            and neuraminidase (NA) genes, complete cds.
+ACCESSION   OQ202364
+VERSION     OQ202364.1
+DBLINK      BioProject: PRJNA37813
+KEYWORDS    .
+SOURCE      Influenza B virus
+  ORGANISM  Influenza B virus
+            Viruses; Riboviria; Orthornavirae; Negarnaviricota;
+            Polyploviricotina; Insthoviricetes; Articulavirales;
+            Orthomyxoviridae; Betainfluenzavirus; Betainfluenzavirus
+            influenzae.
+REFERENCE   1  (bases 1 to 1529)
+  AUTHORS   Wentworth,D., Barnes,J., Steel,J., Garten,R., Davis,T. and Dugan,V.
+  TITLE     Influenza Sequencing Activity group
+  JOURNAL   Unpublished
+REFERENCE   2  (bases 1 to 1529)
+  AUTHORS   Wentworth,D., Barnes,J., Steel,J., Garten,R., Davis,T. and Dugan,V.
+  TITLE     Direct Submission
+  JOURNAL   Submitted (09-JAN-2023) WHO Collaborating Center for Surveillance,
+            Epidemiology and Control of Influenza, Influenza Division, Centers
+            for Disease Control and Prevention, 1600 Clifton Road, N.E.,
+            Atlanta, GA 30333, USA
+COMMENT     ##FluData-START##
+            EPI_ISOLATE_ID        :: EPI_ISL_15927724
+            NAME                  :: B/Colorado/01/2022
+            TYPE                  :: B
+            Segment_name          :: NA
+            HOST_AGE              :: 28
+            HOST_GENDER           :: M
+            PASSAGE               :: C1 (2022-11-10)
+            LOCATION              :: United States / Colorado
+            COLLECT_DATE          :: 15-Oct-2022
+            Lineage               :: Victoria
+            RESIST_TO_OSELTAMIVIR :: Sensitive
+            RESIST_TO_ZANAMVIR    :: Sensitive
+            SPECIMEN_ID           :: 2103695872 ORIGINAL
+            CHARACTERIZATION      :: B/AUSTRIA/1359417/2021-LIKE
+            SENDER_LAB            :: Colorado Department of Health Lab
+            SEQLAB_SAMPLE_ID      :: 3030726931
+            EPI_SEQUENCE_ID       :: EPI2223806
+            ##FluData-END##
+FEATURES             Location/Qualifiers
+     source          1..1529
+                     /organism="Influenza B virus"
+                     /mol_type="viral cRNA"
+                     /strain="B/Colorado/01/2022"
+                     /host="Homo sapiens"
+                     /db_xref="taxon:11520"
+                     /segment="6"
+                     /geo_loc_name="USA: Colorado"
+                     /collection_date="15-Oct-2022"
+                     /note="passage details:C1 (2022-11-10);
+                     type: Victoria"
+     gene            34..336
+                     /gene="NB"
+     CDS             34..336
+                     /gene="NB"
+                     /codon_start=1
+                     /product="NB protein"
+                     /protein_id="WBO06559.1"
+                     /translation="MNNATFNYTNVNPISHIRGSIIITICVSFIIILTIFGYIAKILT
+                     NRNNCTNNAIGLCKRIKCSGCEPFCNKRGDTSSPRTGVDIPAFILPGLNLSESTPN"
+     gene            41..1441
+                     /gene="NA"
+     CDS             41..1441
+                     /gene="NA"
+                     /codon_start=1
+                     /product="neuraminidase"
+                     /protein_id="WBO06560.1"
+                     /translation="MLPSTIQTLTLFLTSGGVLLSLYVSASLSYLLYSDILLKFSQTE
+                     ITAPTMPLDCANASNVQAVNRSATKGATLLLPEPEWTYPRLSCPGSTFQKALLISPHR
+                     FGETKGNSAPLIIREPFVACGPNECKHFALTHYAAQPGGYYNGTRGDRNKLRHLISVK
+                     LGKIPTVENSIFHMAAWSGSACHDGKEWTYIGVDGPDNNALLKVKYGEAYTDTYHSYA
+                     NNILRTQESACNCIGGNCYLMITDGSASGVSECRFLKIREGRIIKEIFPTGRVKHTEE
+                     CTCGFASNKTIECACRDNRYTAKRPFVKLNVETDTAEIRLMCTDTYLDTPRPNDGSIT
+                     GPCESDGDEGSGGIKGGFVHQRMKSKIGRWYSRTMSKTERMGMGLYVKYGGDPWADSD
+                     ALVFSGVMISMKEPGWYSFGFEIKDKKCDVPCIGIEMVHDGGKETWHSAATAIYCLMG
+                     SGQLLWDTVTGVDMAL"
+ORIGIN      
+        1 atcttctcaa aaactgaagc aaataggcca aaaatgaaca atgctacctt caactataca
+       61 aacgttaacc ctatttctca catcaggggg agtattatta tcactatatg tgtcagcttc
+      121 attatcatac ttactatatt cggatatatt gctaaaattc tcacaaacag aaataactgc
+      181 accaacaatg ccattggatt gtgcaaacgc atcaaatgtt caggctgtga accgttctgc
+      241 aacaaaaggg gcgacacttc ttctcccaga accggagtgg acatacccgc gtttatcttg
+      301 cccgggctca acctttcaga aagcactcct aattagccct catagattcg gagaaaccaa
+      361 aggaaactca gctcccttaa taataaggga accttttgtt gcttgtggac caaatgaatg
+      421 caaacacttt gctttaaccc attatgcagc ccaaccaggg ggatactaca atggaacaag
+      481 aggagacaga aacaagctga ggcatctaat ttcagtcaaa ttgggcaaaa tcccaacagt
+      541 agagaactcc attttccata tggcagcatg gagcgggtcc gcgtgccatg atggtaagga
+      601 atggacatat atcggagttg atggccctga caataatgca ttgctcaaag taaaatatgg
+      661 agaagcatat actgacacat accattccta tgcaaacaac atcctaagaa cacaagaaag
+      721 tgcctgcaat tgcatcgggg gaaattgtta tctaatgata actgacggct cagcttcagg
+      781 tgttagtgaa tgcagatttc ttaagattcg agagggccga ataataaaag aaatatttcc
+      841 aacaggaaga gtaaaacaca ctgaggaatg cacatgcgga tttgccagta ataaaaccat
+      901 agaatgtgcc tgtagagaca acagatacac agcaaaaaga ccttttgtta aattaaacgt
+      961 ggagactgat acagcagaaa taagattgat gtgtacagac acttatttgg acacccccag
+     1021 accaaatgat ggaagcataa caggcccttg tgaatctgat ggggacgagg ggagtggagg
+     1081 catcaaggga ggatttgttc atcaaagaat gaaatccaag attggaaggt ggtactctcg
+     1141 aacaatgtct aaaactgaaa ggatggggat gggattgtat gtcaagtatg gtggagaccc
+     1201 atgggctgac agtgatgccc tagtttttag tggagtaatg atttcaatga aagaacctgg
+     1261 ttggtattcc tttggcttcg aaataaaaga taagaaatgc gatgtcccct gtattgggat
+     1321 agagatggta catgatggtg gaaaagagac ttggcactca gcagcaacag ccatttactg
+     1381 tttaatgggc tcaggacagc tgctgtggga cactgtcaca ggtgttgata tggctctgta
+     1441 atgggggagt ggttaagtct gttctaaacc ctttgttcct attttatttg aacaattgtc
+     1501 cttactaaat ttaattgttt ctgaaaaat
+//
+

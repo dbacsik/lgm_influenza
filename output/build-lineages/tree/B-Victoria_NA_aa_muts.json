@@ -75,60 +75,6 @@
         "NB": []
       }
     },
-    "B/Ecuador/1135/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Ecuador/140/2023": {
-      "aa_muts": {
-        "NA": [
-          "I6L"
-        ],
-        "NB": [
-          "Y8S",
-          "G55R"
-        ]
-      }
-    },
-    "B/Ecuador/4157/2023": {
-      "aa_muts": {
-        "NA": [
-          "L75I",
-          "G247D"
-        ],
-        "NB": [
-          "S77Y"
-        ]
-      }
-    },
-    "B/Ecuador/5408/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Ecuador/5450/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Ecuador/9768/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Ecuador/GSB-1171-1496/2023": {
-      "aa_muts": {
-        "NA": [
-          "P88Q"
-        ],
-        "NB": []
-      }
-    },
     "B/Hong_Kong/286/2017": {
       "aa_muts": {
         "NA": [],
@@ -195,98 +141,54 @@
         ]
       }
     },
-    "B/Peru/01237Aaeev/2023": {
+    "B/Peru/00051Aadow/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/01237Aaeew/2023": {
+    "B/Peru/00051Aadpc/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/01237Aaefa/2023": {
+    "B/Peru/00051Aadpe/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/01237Aaefb/2023": {
+    "B/Peru/00051Aadpg/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/02645Aaaek/2023": {
+    "B/Peru/00051Aadpk/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/02883Aalsw/2023": {
+    "B/Peru/02018Aaunx/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/02018Aaupc/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/02100Aadsw/2024": {
       "aa_muts": {
         "NA": [
-          "D342E"
+          "A175T",
+          "D342G"
         ],
-        "NB": [
-          "N3D"
-        ]
-      }
-    },
-    "B/Peru/02883Aalsx/2023": {
-      "aa_muts": {
-        "NA": [
-          "L15S"
-        ],
-        "NB": []
-      }
-    },
-    "B/Peru/02883Aaltu/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/02885Aahkz/2023": {
-      "aa_muts": {
-        "NA": [
-          "T106I",
-          "T437A"
-        ],
-        "NB": []
-      }
-    },
-    "B/Peru/02885Aahlc/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/02885Aahnc/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/02885Aahng/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": [
-          "T44A"
-        ]
-      }
-    },
-    "B/Peru/02888Aakdk/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/02888Aakdn/2023": {
-      "aa_muts": {
-        "NA": [],
         "NB": []
       }
     },
@@ -296,180 +198,166 @@
         "NB": []
       }
     },
-    "B/Peru/03472/2023": {
+    "B/Peru/06210Abosb/2024": {
       "aa_muts": {
         "NA": [],
-        "NB": [
-          "T80A"
-        ]
+        "NB": []
       }
     },
-    "B/Peru/0727/2023": {
+    "B/Peru/06669Aagse/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/06669Aagsl/2024": {
       "aa_muts": {
         "NA": [
-          "L73F",
           "V204I"
         ],
+        "NB": []
+      }
+    },
+    "B/Peru/10571Aagtl/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/1945/2024": {
+      "aa_muts": {
+        "NA": [],
         "NB": [
-          "T75I"
+          "G73C"
         ]
       }
     },
-    "B/Peru/0753/2023": {
+    "B/Peru/1985/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/10185Aanzs/2023": {
+    "B/Peru/2014/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/1232/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/1237/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/1292/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/1293/2023": {
+    "B/Peru/2018/2024": {
       "aa_muts": {
         "NA": [
-          "M50I",
-          "V60A"
-        ],
-        "NB": [
-          "S15P",
-          "A53T",
-          "N70D"
-        ]
-      }
-    },
-    "B/Peru/1409/2023": {
-      "aa_muts": {
-        "NA": [
-          "G233W"
+          "G378E"
         ],
         "NB": []
       }
     },
-    "B/Peru/2017/2023": {
-      "aa_muts": {
-        "NA": [
-          "K94R",
-          "M403T"
-        ],
-        "NB": []
-      }
-    },
-    "B/Peru/2161/2023": {
+    "B/Peru/2020/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/2645/2023": {
+    "B/Peru/2084/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/2831/2023": {
+    "B/Peru/2100/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/2883/2023": {
+    "B/Peru/4090/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/2885/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/2888/2023": {
-      "aa_muts": {
-        "NA": [
-          "S41P",
-          "C54Y",
-          "A67T",
-          "T334I"
-        ],
-        "NB": [
-          "L43P",
-          "C69Y"
-        ]
-      }
-    },
-    "B/Peru/3472/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/3886/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/4054/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/4211/2023": {
+    "B/Peru/5840/2024": {
       "aa_muts": {
         "NA": [
           "R257Q"
         ],
-        "NB": [
-          "G64S"
-        ]
+        "NB": []
       }
     },
-    "B/Peru/4317/2023": {
+    "B/Peru/6374/2024": {
       "aa_muts": {
         "NA": [
-          "I314V"
+          "M357I"
         ],
         "NB": []
       }
     },
-    "B/Peru/472/2023": {
-      "aa_muts": {
-        "NA": [
-          "D342G"
-        ],
-        "NB": []
-      }
-    },
-    "B/Peru/6669/2023": {
+    "B/Peru/AMA-INS-341/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/7638/2023": {
+    "B/Peru/ANC-INS-289/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/ARE-INS-278/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/ARE-INS-295/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/ARE-INS-297/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/ARE-INS-299/2024": {
+      "aa_muts": {
+        "NA": [
+          "I445V"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/ARE-INS-330/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/ARE-INS-358/2024": {
+      "aa_muts": {
+        "NA": [
+          "M369I",
+          "M464I"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/ARE-INS-359/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/CAJ-INS-339/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/CAJ-INS-399/2024": {
       "aa_muts": {
         "NA": [],
         "NB": [
@@ -477,22 +365,79 @@
         ]
       }
     },
-    "B/Peru/9066/2023": {
+    "B/Peru/HCV-INS-302/2024": {
+      "aa_muts": {
+        "NA": [
+          "C54Y",
+          "K186R",
+          "S339F",
+          "V395I"
+        ],
+        "NB": [
+          "V82M"
+        ]
+      }
+    },
+    "B/Peru/HCV-INS-307/2024": {
       "aa_muts": {
         "NA": [],
         "NB": []
       }
     },
-    "B/Peru/GIHSN-HCL023164105501/2023": {
+    "B/Peru/HUA-INS-362/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/HUA-INS-380/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/HUA-INS-398/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/HUA-INS-407/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/HUA-INS-414/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/HUA-INS-415/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/ICA-INS-310/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/JUN-INS-293/2024": {
       "aa_muts": {
         "NA": [
-          "I98V"
+          "N220S"
         ],
-        "NB": [
-          "I32V",
-          "L33F",
-          "N100S"
-        ]
+        "NB": []
+      }
+    },
+    "B/Peru/LAM-INS-397/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
       }
     },
     "B/Peru/LIM-INS-119/2024": {
@@ -500,6 +445,560 @@
         "NA": [
           "P336T"
         ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-266/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-268/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-269/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-274/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-291/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-304/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-312/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-314/2024": {
+      "aa_muts": {
+        "NA": [
+          "D53N",
+          "T189I"
+        ],
+        "NB": [
+          "G55E"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-316/2024": {
+      "aa_muts": {
+        "NA": [
+          "A67T",
+          "G269E",
+          "I427V"
+        ],
+        "NB": [
+          "C69Y"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-317/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-318/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-319/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-320/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-321/2024": {
+      "aa_muts": {
+        "NA": [
+          "S366T"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-322/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-323/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-324/2024": {
+      "aa_muts": {
+        "NA": [
+          "G148R"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-325/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-326/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-327/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-328/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-329/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-331/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-332/2024": {
+      "aa_muts": {
+        "NA": [
+          "T286I"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-333/2024": {
+      "aa_muts": {
+        "NA": [
+          "I262V",
+          "T334A",
+          "R356G"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-335/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-336/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-337/2024": {
+      "aa_muts": {
+        "NA": [
+          "A137T"
+        ],
+        "NB": [
+          "V11I"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-338/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-340/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-342/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-343/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-344/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-345/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-348/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-349/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-350/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-351/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-352/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-353/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-354/2024": {
+      "aa_muts": {
+        "NA": [
+          "T43A"
+        ],
+        "NB": [
+          "N45S"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-355/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-356/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-357/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-363/2024": {
+      "aa_muts": {
+        "NA": [
+          "V18A"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-365/2024": {
+      "aa_muts": {
+        "NA": [
+          "T458A"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-366/2024": {
+      "aa_muts": {
+        "NA": [
+          "N125S"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-367/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-368/2024": {
+      "aa_muts": {
+        "NA": [
+          "E79K"
+        ],
+        "NB": [
+          "G81E"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-369/2024": {
+      "aa_muts": {
+        "NA": [
+          "T8M"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-370/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-371/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-372/2024": {
+      "aa_muts": {
+        "NA": [
+          "M375V"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-373/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-374/2024": {
+      "aa_muts": {
+        "NA": [
+          "M50I"
+        ],
+        "NB": [
+          "A53T"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-375/2024": {
+      "aa_muts": {
+        "NA": [
+          "I45T",
+          "V63L"
+        ],
+        "NB": [
+          "K61E",
+          "C65F"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-376/2024": {
+      "aa_muts": {
+        "NA": [
+          "L74P"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-377/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-378/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-381/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-392/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-393/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-394/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-395/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-396/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": [
+          "S97G"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-403/2024": {
+      "aa_muts": {
+        "NA": [
+          "P3S",
+          "V248A"
+        ],
+        "NB": [
+          "T5I"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-405/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-406/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-418/2024": {
+      "aa_muts": {
+        "NA": [
+          "H129Q"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-419/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": [
+          "I54V"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-420/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-422/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-424/2024": {
+      "aa_muts": {
+        "NA": [
+          "R260Q",
+          "A465T"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-428/2024": {
+      "aa_muts": {
+        "NA": [
+          "T211S",
+          "E313K"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-429/2024": {
+      "aa_muts": {
+        "NA": [
+          "N199S"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-430/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": [
+          "T80A"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-431/2024": {
+      "aa_muts": {
+        "NA": [
+          "A71P"
+        ],
+        "NB": [
+          "G73A"
+        ]
+      }
+    },
+    "B/Peru/LIM-INS-442/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-INS-444/2024": {
+      "aa_muts": {
+        "NA": [],
         "NB": []
       }
     },
@@ -557,9 +1056,7 @@
     },
     "B/Peru/LIM-UPCH-4696/2024": {
       "aa_muts": {
-        "NA": [
-          "V248I"
-        ],
+        "NA": [],
         "NB": []
       }
     },
@@ -685,8 +1182,7 @@
     "B/Peru/LIM-UPCH-4724/2024": {
       "aa_muts": {
         "NA": [
-          "S58L",
-          "G384D"
+          "S58L"
         ],
         "NB": []
       }
@@ -711,12 +1207,8 @@
     },
     "B/Peru/LIM-UPCH-4728/2024": {
       "aa_muts": {
-        "NA": [
-          "I45V"
-        ],
-        "NB": [
-          "N47S"
-        ]
+        "NA": [],
+        "NB": []
       }
     },
     "B/Peru/LIM-UPCH-4730/2024": {
@@ -730,24 +1222,423 @@
         ]
       }
     },
-    "B/Peru/UPCH_3863/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/UPCH_3865/2023": {
-      "aa_muts": {
-        "NA": [],
-        "NB": []
-      }
-    },
-    "B/Peru/UPCH_3869/2023": {
+    "B/Peru/LIM-UPCH-4871/2024": {
       "aa_muts": {
         "NA": [],
         "NB": [
-          "A4V"
+          "G81R"
         ]
+      }
+    },
+    "B/Peru/LIM-UPCH-4872/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/LIM-UPCH-4879/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": [
+          "T98P"
+        ]
+      }
+    },
+    "B/Peru/LOR-INS-361/2024": {
+      "aa_muts": {
+        "NA": [
+          "E79K",
+          "T372I"
+        ],
+        "NB": [
+          "G81E"
+        ]
+      }
+    },
+    "B/Peru/LOR-INS-449/2024": {
+      "aa_muts": {
+        "NA": [
+          "S345G"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/LOR-INS-450/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PAS-INS-311/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PAS-INS-334/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PAS-INS-360/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PAS-INS-364/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PAS-INS-404/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PAS-INS-421/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PAS-INS-443/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-347/2024": {
+      "aa_muts": {
+        "NA": [
+          "M174I"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-409/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-410/2024": {
+      "aa_muts": {
+        "NA": [
+          "I401V"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-411/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-416/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-417/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-425/2024": {
+      "aa_muts": {
+        "NA": [
+          "D342N"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-426/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-427/2024": {
+      "aa_muts": {
+        "NA": [
+          "P124L"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-437/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-438/2024": {
+      "aa_muts": {
+        "NA": [
+          "S366P"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-439/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-440/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-441/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/PIU-INS-445/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-273/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-275/2024": {
+      "aa_muts": {
+        "NA": [
+          "D197N"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-276/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-277/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-279/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-280/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-281/2024": {
+      "aa_muts": {
+        "NA": [
+          "N59S"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-282/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-283/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-284/2024": {
+      "aa_muts": {
+        "NA": [
+          "D320N"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-285/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-286/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-287/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-288/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-290/2024": {
+      "aa_muts": {
+        "NA": [
+          "S244L"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-294/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-296/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-298/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-300/2024": {
+      "aa_muts": {
+        "NA": [
+          "T106I"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-301/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-303/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-305/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-306/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-308/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-309/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": [
+          "A40T"
+        ]
+      }
+    },
+    "B/Peru/TAC-INS-379/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-400/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-401/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-402/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-432/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-433/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-434/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-435/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-436/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "B/Peru/TAC-INS-448/2024": {
+      "aa_muts": {
+        "NA": [
+          "S90L"
+        ],
+        "NB": []
+      }
+    },
+    "B/Peru/UCA-INS-271/2024": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
       }
     },
     "B/Rhode_Island/01/2019": {
@@ -766,8 +1657,7 @@
     "B/Tak/F2636/2024": {
       "aa_muts": {
         "NA": [
-          "A47V",
-          "R65H"
+          "A47V"
         ],
         "NB": []
       }
@@ -962,24 +1852,26 @@
     "NODE_0000016": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "F6L"
+        ]
       }
     },
     "NODE_0000017": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "I45T",
+          "S397N"
+        ],
         "NB": []
       }
     },
     "NODE_0000018": {
       "aa_muts": {
         "NA": [
-          "V63L"
+          "V248I"
         ],
-        "NB": [
-          "K61E",
-          "C65F"
-        ]
+        "NB": []
       }
     },
     "NODE_0000019": {
@@ -991,9 +1883,7 @@
     "NODE_0000020": {
       "aa_muts": {
         "NA": [],
-        "NB": [
-          "F6L"
-        ]
+        "NB": []
       }
     },
     "NODE_0000021": {
@@ -1004,30 +1894,19 @@
     },
     "NODE_0000022": {
       "aa_muts": {
-        "NA": [
-          "I45T",
-          "S397N"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000023": {
       "aa_muts": {
-        "NA": [
-          "A57T",
-          "R315K"
-        ],
-        "NB": [
-          "R59H",
-          "L94F"
-        ]
+        "NA": [],
+        "NB": []
       }
     },
     "NODE_0000024": {
       "aa_muts": {
-        "NA": [
-          "G378E"
-        ],
+        "NA": [],
         "NB": []
       }
     },
@@ -1039,9 +1918,7 @@
     },
     "NODE_0000026": {
       "aa_muts": {
-        "NA": [
-          "T91I"
-        ],
+        "NA": [],
         "NB": []
       }
     },
@@ -1107,20 +1984,29 @@
     },
     "NODE_0000037": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "G378E"
+        ],
         "NB": []
       }
     },
     "NODE_0000038": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "R65H"
+        ],
         "NB": []
       }
     },
     "NODE_0000039": {
       "aa_muts": {
-        "NA": [],
-        "NB": []
+        "NA": [
+          "A47T"
+        ],
+        "NB": [
+          "C49Y",
+          "T80A"
+        ]
       }
     },
     "NODE_0000040": {
@@ -1131,14 +2017,18 @@
     },
     "NODE_0000041": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "L52S"
+        ],
         "NB": []
       }
     },
     "NODE_0000042": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "E96K"
+        ]
       }
     },
     "NODE_0000043": {
@@ -1150,34 +2040,27 @@
     "NODE_0000044": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "T34A"
+        ]
       }
     },
     "NODE_0000045": {
       "aa_muts": {
-        "NA": [
-          "K419R"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000046": {
       "aa_muts": {
-        "NA": [
-          "R65H"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000047": {
       "aa_muts": {
-        "NA": [
-          "F12L",
-          "G233K"
-        ],
-        "NB": [
-          "I14T"
-        ]
+        "NA": [],
+        "NB": []
       }
     },
     "NODE_0000048": {
@@ -1195,17 +2078,15 @@
     "NODE_0000050": {
       "aa_muts": {
         "NA": [],
-        "NB": []
+        "NB": [
+          "E66K"
+        ]
       }
     },
     "NODE_0000051": {
       "aa_muts": {
-        "NA": [
-          "S15L"
-        ],
-        "NB": [
-          "L6F"
-        ]
+        "NA": [],
+        "NB": []
       }
     },
     "NODE_0000052": {
@@ -1216,7 +2097,9 @@
     },
     "NODE_0000053": {
       "aa_muts": {
-        "NA": [],
+        "NA": [
+          "V395I"
+        ],
         "NB": []
       }
     },
@@ -1234,10 +2117,10 @@
     },
     "NODE_0000056": {
       "aa_muts": {
-        "NA": [],
-        "NB": [
-          "I21T"
-        ]
+        "NA": [
+          "P88R"
+        ],
+        "NB": []
       }
     },
     "NODE_0000057": {
@@ -1278,19 +2161,13 @@
     },
     "NODE_0000063": {
       "aa_muts": {
-        "NA": [
-          "L52S"
-        ],
+        "NA": [],
         "NB": []
       }
     },
     "NODE_0000064": {
       "aa_muts": {
-        "NA": [
-          "G233R",
-          "D342G",
-          "V395I"
-        ],
+        "NA": [],
         "NB": []
       }
     },
@@ -1302,10 +2179,7 @@
     },
     "NODE_0000066": {
       "aa_muts": {
-        "NA": [
-          "P51L",
-          "D390N"
-        ],
+        "NA": [],
         "NB": []
       }
     },
@@ -1323,10 +2197,10 @@
     },
     "NODE_0000069": {
       "aa_muts": {
-        "NA": [],
-        "NB": [
-          "E96K"
-        ]
+        "NA": [
+          "A62D"
+        ],
+        "NB": []
       }
     },
     "NODE_0000070": {
@@ -1338,9 +2212,7 @@
     "NODE_0000071": {
       "aa_muts": {
         "NA": [],
-        "NB": [
-          "T34A"
-        ]
+        "NB": []
       }
     },
     "NODE_0000072": {
@@ -1363,8 +2235,12 @@
     },
     "NODE_0000075": {
       "aa_muts": {
-        "NA": [],
-        "NB": []
+        "NA": [
+          "I45V"
+        ],
+        "NB": [
+          "N47S"
+        ]
       }
     },
     "NODE_0000076": {
@@ -1483,9 +2359,7 @@
     },
     "NODE_0000095": {
       "aa_muts": {
-        "NA": [
-          "A62D"
-        ],
+        "NA": [],
         "NB": []
       }
     },
@@ -1508,6 +2382,846 @@
       }
     },
     "NODE_0000099": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000100": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000101": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000102": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000103": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000104": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000105": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000106": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000107": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000108": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000109": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000110": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000111": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000112": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000113": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000114": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000115": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000116": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000117": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000118": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000119": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000120": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000121": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000122": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000123": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000124": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000125": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000126": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000127": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000128": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000129": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000130": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000131": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000132": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000133": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000134": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000135": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000136": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000137": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000138": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000139": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000140": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000141": {
+      "aa_muts": {
+        "NA": [],
+        "NB": [
+          "L94F"
+        ]
+      }
+    },
+    "NODE_0000142": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000143": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000144": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000145": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000146": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000147": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000148": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000149": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000150": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000151": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000152": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000153": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000154": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000155": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000156": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000157": {
+      "aa_muts": {
+        "NA": [
+          "E126G"
+        ],
+        "NB": []
+      }
+    },
+    "NODE_0000158": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000159": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000160": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000161": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000162": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000163": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000164": {
+      "aa_muts": {
+        "NA": [
+          "I262T"
+        ],
+        "NB": []
+      }
+    },
+    "NODE_0000165": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000166": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000167": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000168": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000169": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000170": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000171": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000172": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000173": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000174": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000175": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000176": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000177": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000178": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000179": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000180": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000181": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000182": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000183": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000184": {
+      "aa_muts": {
+        "NA": [],
+        "NB": [
+          "V11A"
+        ]
+      }
+    },
+    "NODE_0000185": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000186": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000187": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000188": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000189": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000190": {
+      "aa_muts": {
+        "NA": [
+          "G384D"
+        ],
+        "NB": []
+      }
+    },
+    "NODE_0000191": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000192": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000193": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000194": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000195": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000196": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000197": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000198": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000199": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000200": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000201": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000202": {
+      "aa_muts": {
+        "NA": [
+          "C54Y"
+        ],
+        "NB": []
+      }
+    },
+    "NODE_0000203": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000204": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000205": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000206": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000207": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000208": {
+      "aa_muts": {
+        "NA": [
+          "G247S"
+        ],
+        "NB": []
+      }
+    },
+    "NODE_0000209": {
+      "aa_muts": {
+        "NA": [
+          "M403I"
+        ],
+        "NB": []
+      }
+    },
+    "NODE_0000210": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000211": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000212": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000213": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000214": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000215": {
+      "aa_muts": {
+        "NA": [
+          "V120I"
+        ],
+        "NB": []
+      }
+    },
+    "NODE_0000216": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000217": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000218": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000219": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000220": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000221": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000222": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000223": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000224": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000225": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000226": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000227": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000228": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000229": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000230": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000231": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000232": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000233": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000234": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000235": {
+      "aa_muts": {
+        "NA": [],
+        "NB": []
+      }
+    },
+    "NODE_0000236": {
       "aa_muts": {
         "NA": [],
         "NB": []
